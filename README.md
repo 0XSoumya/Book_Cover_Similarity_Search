@@ -4,7 +4,7 @@ A visual book recommendation system that finds similar book covers using image e
 
 🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
 
----
+ ---
 
 ```
 book-cover-similarity/
@@ -28,7 +28,7 @@ book-cover-similarity/
 │   ├── generate_embeddings.py    # Script to generate embeddings
 │   └── open_library.py           # Scrapes data using OpenLibrary API
 
----
+ ---
 
 ## 🚀 Features
 
@@ -38,7 +38,7 @@ book-cover-similarity/
 * 📚 Dataset scraped from Open Library (12 genres × 100 books)
 * 🖼 Streamlit interface with randomized book grid
 
----
+ ---
 
 ## 📦 Setup Instructions
 
