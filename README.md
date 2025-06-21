@@ -1,92 +1,96 @@
-# 📚 CoverMatch — Judging Books by Their Cover
+# 📚 Judging Books by Their Covers
 
-CoverMatch is a visual similarity search tool that helps users find books with similar covers using ResNet embeddings and FAISS.
+A visually- book recommendation system that finds similar book covers using image embeddings and FAISS. Powered by ResNet and Streamlit.
 
-🎯 **Try it live**: [Streamlit App](https://your-app-url.streamlit.app)
+🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
+
+---
+
+## 📁 Folder Structure
+
+```bash
+book-cover-similarity/
+├── app.py                     # Streamlit app
+├── requirements.txt          # Python dependencies
+├── .gitignore                # Files excluded from Git
+├── data/
+│   ├── images/               # Book cover images
+│   ├── embeddings.npy        # Image embeddings (numpy array)
+│   ├── faiss_index_cosine.index  # FAISS index for cosine similarity
+│   └── metadata_openlibrary.json # Book metadata
+├── scripts/
+│   ├── open_library.py       # Open Library scraping script
+│   ├── ResNet.py             # Embedding generator using ResNet
+│   └── FAISS_index_ResNet.py # Builds FAISS index
+```
 
 ---
 
 ## 🚀 Features
 
-* Visual similarity search powered by deep learning
-* ResNet-based embeddings for sharper and more meaningful results
-* Scrapes book covers from 12 popular genres using Open Library
-* FAISS indexing with cosine similarity for fast queries
-* Interactive UI with Streamlit
+* 🔍 Visual similarity search using book covers
+* 🤖 ResNet for feature extraction
+* ⚡ Fast retrieval with FAISS
+* 📚 Dataset scraped from Open Library (12 genres × 100 books)
+* 🖼 Streamlit interface with randomized book grid
 
 ---
 
-## 🖼️ Preview
+## 📦 Setup Instructions
 
-![demo](assets/demo.png)
+1. **Clone the repo:**
 
----
+   ```bash
+   git clone https://github.com/your-username/book-cover-similarity.git
+   cd book-cover-similarity
+   ```
 
-## 📦 Project Structure
+2. **Install dependencies:**
 
-```
-├── app.py                        # Streamlit app  
-├── scripts/                      # Scripts for scraping and preprocessing  
-│   ├── open_library.py           # Scrapes Open Library covers  
-│   ├── ResNet.py                 # Embeds images using ResNet50  
-│   └── FAISS_index_ResNet.py     # Builds FAISS cosine index  
-├── data/                         # Data folder  
-│   ├── images/                   # Book cover images (excluded from repo)  
-│   ├── embeddings.npy            # Saved image embeddings  
-│   ├── faiss_index_cosine.index  # FAISS index file  
-│   └── metadata_openlibrary.json # Book metadata  
-├── requirements.txt  
-└── README.md  
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
----
+3. **(Optional) Generate embeddings and FAISS index:**
 
-## 🧠 How It Works
+   ```bash
+   python scripts/ResNet.py
+   python scripts/FAISS_index_ResNet.py
+   ```
 
-1. **Data Collection**
-   Scrapes 100 books from each of 12 genres via the Open Library API.
+4. **Run locally:**
 
-2. **Embedding**
-   Uses pre-trained ResNet-50 to generate feature vectors for each book cover.
-
-3. **Indexing**
-   Embeddings are normalized and indexed with FAISS using cosine similarity.
-
-4. **Search**
-   Users select a book via grid, and the app retrieves visually similar covers.
+   ```bash
+   streamlit run app.py
+   ```
 
 ---
 
-## 🧪 Setup & Run Locally
+## 🧠 Tech Stack
 
-```bash
-git clone https://github.com/yourusername/book-cover-similarity  
-cd book-cover-similarity  
-pip install -r requirements.txt  
-streamlit run app.py  
-```
-
-️⚠️ Make sure to generate the required data using the scripts in `scripts/`, since large files like images, `.npy`, and FAISS index are ignored by `.gitignore`.
+* Python
+* Streamlit
+* FAISS
+* PyTorch
+* Open Library API
 
 ---
 
-## 📚 Dataset
+## ✨ Future Improvements
 
-* **1200 books** from Open Library
-* **100 books per genre**, across 12 genres
-* Covers + metadata stored in `data/`
-
----
-
-## 👤 Author
-
-**Soumya Sahoo**
-[GitHub](https://github.com/0XSoumya) | [LinkedIn](https://www.linkedin.com/in/0xsoumya/)
+* CLIP-based embeddings
+* Genre filtering and sorting
+* Responsive mobile layout
+* Deploy with Hugging Face or Docker
 
 ---
 
-## �� License
+## 📸 Preview
 
-```
-MIT License  
-```
+![demo screenshot](https://your-screenshot-url.com)
+
+---
+
+## 📜 License
+
+MIT License © 2025 Soumya Sahoo
