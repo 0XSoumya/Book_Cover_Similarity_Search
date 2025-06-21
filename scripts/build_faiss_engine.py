@@ -6,24 +6,26 @@ from pathlib import Path
 # Paths
 EMBEDDINGS_FILE = Path("data/embeddings.npy")
 ID_FILE = Path("data/image_ids.pkl")
-INDEX_FILE = Path("data/faiss_index.index")
+INDEX_FILE = Path("data/faiss_index_cosine.index")  # New index for cosine
 
 def main():
-    # Load embeddings
     print("📥 Loading embeddings...")
     embeddings = np.load(EMBEDDINGS_FILE).astype("float32")
 
-    # Build FAISS index (L2 distance on normalized vectors)
-    print("⚙️ Building FAISS index...")
+    # ✅ Normalize embeddings for cosine similarity
+    print("🧪 Normalizing embeddings for cosine similarity...")
+    faiss.normalize_L2(embeddings)  # modifies in-place
+
+    # ✅ Use inner product (cosine sim on normalized vectors)
+    print("⚙️ Building cosine-similarity FAISS index...")
     dim = embeddings.shape[1]
-    index = faiss.IndexFlatL2(dim)
+    index = faiss.IndexFlatIP(dim)
     index.add(embeddings)
 
     # Save index
     faiss.write_index(index, str(INDEX_FILE))
-    print(f"✅ FAISS index saved to '{INDEX_FILE}'")
+    print(f"✅ FAISS cosine index saved to '{INDEX_FILE}'")
 
-    # Confirm size
     print(f"📊 Index contains {index.ntotal} vectors.")
 
 if __name__ == "__main__":

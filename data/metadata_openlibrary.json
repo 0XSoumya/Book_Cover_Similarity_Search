@@ -1,0 +1,6002 @@
+[
+  {
+    "title": "Wuthering Heights",
+    "genre": "romance",
+    "filename": "romance/000.jpg"
+  },
+  {
+    "title": "Emma",
+    "genre": "romance",
+    "filename": "romance/001.jpg"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "genre": "romance",
+    "filename": "romance/002.jpg"
+  },
+  {
+    "title": "Little Women",
+    "genre": "romance",
+    "filename": "romance/003.jpg"
+  },
+  {
+    "title": "Northanger Abbey",
+    "genre": "romance",
+    "filename": "romance/004.jpg"
+  },
+  {
+    "title": "Ethan Frome",
+    "genre": "romance",
+    "filename": "romance/005.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "genre": "romance",
+    "filename": "romance/006.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "genre": "romance",
+    "filename": "romance/007.jpg"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "genre": "romance",
+    "filename": "romance/008.jpg"
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "genre": "romance",
+    "filename": "romance/009.jpg"
+  },
+  {
+    "title": "The Moonstone",
+    "genre": "romance",
+    "filename": "romance/010.jpg"
+  },
+  {
+    "title": "Women in Love",
+    "genre": "romance",
+    "filename": "romance/011.jpg"
+  },
+  {
+    "title": "This Side of Paradise",
+    "genre": "romance",
+    "filename": "romance/012.jpg"
+  },
+  {
+    "title": "Cranford",
+    "genre": "romance",
+    "filename": "romance/013.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "genre": "romance",
+    "filename": "romance/014.jpg"
+  },
+  {
+    "title": "Jude the Obscure",
+    "genre": "romance",
+    "filename": "romance/015.jpg"
+  },
+  {
+    "title": "The Woodlanders",
+    "genre": "romance",
+    "filename": "romance/016.jpg"
+  },
+  {
+    "title": "\u0915\u093e\u092e\u0938\u0942\u0924\u094d\u0930",
+    "genre": "romance",
+    "filename": "romance/017.jpg"
+  },
+  {
+    "title": "The pioneers",
+    "genre": "romance",
+    "filename": "romance/018.jpg"
+  },
+  {
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "genre": "romance",
+    "filename": "romance/019.jpg"
+  },
+  {
+    "title": "The Age of Innocence",
+    "genre": "romance",
+    "filename": "romance/020.jpg"
+  },
+  {
+    "title": "Framley Parsonage",
+    "genre": "romance",
+    "filename": "romance/021.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "genre": "romance",
+    "filename": "romance/022.jpg"
+  },
+  {
+    "title": "Le rouge et le noir",
+    "genre": "romance",
+    "filename": "romance/023.jpg"
+  },
+  {
+    "title": "The Ambassadors",
+    "genre": "romance",
+    "filename": "romance/024.jpg"
+  },
+  {
+    "title": "Far From the Madding Crowd",
+    "genre": "romance",
+    "filename": "romance/025.jpg"
+  },
+  {
+    "title": "Washington Square",
+    "genre": "romance",
+    "filename": "romance/026.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "genre": "romance",
+    "filename": "romance/027.jpg"
+  },
+  {
+    "title": "The Return of the Native",
+    "genre": "romance",
+    "filename": "romance/028.jpg"
+  },
+  {
+    "title": "A Room with a View",
+    "genre": "romance",
+    "filename": "romance/029.jpg"
+  },
+  {
+    "title": "Nostromo",
+    "genre": "romance",
+    "filename": "romance/030.jpg"
+  },
+  {
+    "title": "\u0414\u043e\u043a\u0442\u043e\u0440 \u0416\u0438\u0432\u0430\u0433\u043e",
+    "genre": "romance",
+    "filename": "romance/031.jpg"
+  },
+  {
+    "title": "Howards End",
+    "genre": "romance",
+    "filename": "romance/032.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "genre": "romance",
+    "filename": "romance/033.jpg"
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "genre": "romance",
+    "filename": "romance/034.jpg"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "genre": "romance",
+    "filename": "romance/035.jpg"
+  },
+  {
+    "title": "El amor en los tiempos del c\u00f3lera",
+    "genre": "romance",
+    "filename": "romance/036.jpg"
+  },
+  {
+    "title": "Genji monogatari",
+    "genre": "romance",
+    "filename": "romance/037.jpg"
+  },
+  {
+    "title": "Twilight",
+    "genre": "romance",
+    "filename": "romance/038.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "genre": "romance",
+    "filename": "romance/039.jpg"
+  },
+  {
+    "title": "In Cold Blood",
+    "genre": "romance",
+    "filename": "romance/040.jpg"
+  },
+  {
+    "title": "Comus",
+    "genre": "romance",
+    "filename": "romance/041.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "genre": "romance",
+    "filename": "romance/042.jpg"
+  },
+  {
+    "title": "Abel S\u00e1nchez",
+    "genre": "romance",
+    "filename": "romance/043.jpg"
+  },
+  {
+    "title": "Jamaica Inn",
+    "genre": "romance",
+    "filename": "romance/044.jpg"
+  },
+  {
+    "title": "Dead Man's Folly",
+    "genre": "romance",
+    "filename": "romance/045.jpg"
+  },
+  {
+    "title": "Shades of Grey",
+    "genre": "romance",
+    "filename": "romance/046.jpg"
+  },
+  {
+    "title": "New Moon",
+    "genre": "romance",
+    "filename": "romance/047.jpg"
+  },
+  {
+    "title": "Eclipse",
+    "genre": "romance",
+    "filename": "romance/048.jpg"
+  },
+  {
+    "title": "The ghost",
+    "genre": "romance",
+    "filename": "romance/049.jpg"
+  },
+  {
+    "title": "Fifty Shades Darker",
+    "genre": "romance",
+    "filename": "romance/050.jpg"
+  },
+  {
+    "title": "The Thorn Birds",
+    "genre": "romance",
+    "filename": "romance/051.jpg"
+  },
+  {
+    "title": "The Last Chronicle of Barset",
+    "genre": "romance",
+    "filename": "romance/052.jpg"
+  },
+  {
+    "title": "The Talisman",
+    "genre": "romance",
+    "filename": "romance/053.jpg"
+  },
+  {
+    "title": "Sad Cypress",
+    "genre": "romance",
+    "filename": "romance/054.jpg"
+  },
+  {
+    "title": "Novels (Emma / Mansfield Park / Northanger Abbey / Persuasion / Pride and Prejudice / Sense and Sensibility)",
+    "genre": "romance",
+    "filename": "romance/055.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "genre": "romance",
+    "filename": "romance/056.jpg"
+  },
+  {
+    "title": "Frenchman's Creek",
+    "genre": "romance",
+    "filename": "romance/057.jpg"
+  },
+  {
+    "title": "Flowers in the Attic",
+    "genre": "romance",
+    "filename": "romance/058.jpg"
+  },
+  {
+    "title": "The Price of Salt",
+    "genre": "romance",
+    "filename": "romance/059.jpg"
+  },
+  {
+    "title": "The Horse Whisperer",
+    "genre": "romance",
+    "filename": "romance/060.jpg"
+  },
+  {
+    "title": "The well-beloved",
+    "genre": "romance",
+    "filename": "romance/061.jpg"
+  },
+  {
+    "title": "The Waste Lands",
+    "genre": "romance",
+    "filename": "romance/062.jpg"
+  },
+  {
+    "title": "Pelham",
+    "genre": "romance",
+    "filename": "romance/063.jpg"
+  },
+  {
+    "title": "Can you forgive her?",
+    "genre": "romance",
+    "filename": "romance/064.jpg"
+  },
+  {
+    "title": "My Secret Life",
+    "genre": "romance",
+    "filename": "romance/065.jpg"
+  },
+  {
+    "title": "Potterism",
+    "genre": "romance",
+    "filename": "romance/066.jpg"
+  },
+  {
+    "title": "The Eustace diamonds",
+    "genre": "romance",
+    "filename": "romance/067.jpg"
+  },
+  {
+    "title": "Der Vorleser",
+    "genre": "romance",
+    "filename": "romance/068.jpg"
+  },
+  {
+    "title": "The Custom of the Country",
+    "genre": "romance",
+    "filename": "romance/069.jpg"
+  },
+  {
+    "title": "The Wings of the Dove",
+    "genre": "romance",
+    "filename": "romance/070.jpg"
+  },
+  {
+    "title": "O mandarim",
+    "genre": "romance",
+    "filename": "romance/071.jpg"
+  },
+  {
+    "title": "The God of Small Things",
+    "genre": "romance",
+    "filename": "romance/072.jpg"
+  },
+  {
+    "title": "Night Over Water",
+    "genre": "romance",
+    "filename": "romance/073.jpg"
+  },
+  {
+    "title": "The Minister's Wooing",
+    "genre": "romance",
+    "filename": "romance/074.jpg"
+  },
+  {
+    "title": "Americanah",
+    "genre": "romance",
+    "filename": "romance/075.jpg"
+  },
+  {
+    "title": "Nichts ist st\u00e4rker als die Liebe",
+    "genre": "romance",
+    "filename": "romance/076.jpg"
+  },
+  {
+    "title": "Cidade e as serras",
+    "genre": "romance",
+    "filename": "romance/077.jpg"
+  },
+  {
+    "title": "Seta",
+    "genre": "romance",
+    "filename": "romance/078.jpg"
+  },
+  {
+    "title": "The Vampire Lestat",
+    "genre": "romance",
+    "filename": "romance/079.jpg"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "romance",
+    "filename": "romance/080.jpg"
+  },
+  {
+    "title": "Riders of the Purple Sage",
+    "genre": "romance",
+    "filename": "romance/081.jpg"
+  },
+  {
+    "title": "Oryx and Crake",
+    "genre": "romance",
+    "filename": "romance/082.jpg"
+  },
+  {
+    "title": "Il \u00e9tait une fois l'amour",
+    "genre": "romance",
+    "filename": "romance/083.jpg"
+  },
+  {
+    "title": "The Duke's Children",
+    "genre": "romance",
+    "filename": "romance/084.jpg"
+  },
+  {
+    "title": "The Glimpses of the Moon",
+    "genre": "romance",
+    "filename": "romance/085.jpg"
+  },
+  {
+    "title": "Landfall, a channel story",
+    "genre": "romance",
+    "filename": "romance/086.jpg"
+  },
+  {
+    "title": "The Kitchen God's Wife",
+    "genre": "romance",
+    "filename": "romance/087.jpg"
+  },
+  {
+    "title": "Mistress of Mellyn",
+    "genre": "romance",
+    "filename": "romance/088.jpg"
+  },
+  {
+    "title": "Dragonfly in Amber",
+    "genre": "romance",
+    "filename": "romance/089.jpg"
+  },
+  {
+    "title": "Divergent",
+    "genre": "romance",
+    "filename": "romance/090.jpg"
+  },
+  {
+    "title": "Lie Down With Lions",
+    "genre": "romance",
+    "filename": "romance/091.jpg"
+  },
+  {
+    "title": "Light a Penny Candle",
+    "genre": "romance",
+    "filename": "romance/092.jpg"
+  },
+  {
+    "title": "Royal Escape",
+    "genre": "romance",
+    "filename": "romance/093.jpg"
+  },
+  {
+    "title": "Ecos Del Corazon",
+    "genre": "romance",
+    "filename": "romance/094.jpg"
+  },
+  {
+    "title": "No Loger at Ease",
+    "genre": "romance",
+    "filename": "romance/095.jpg"
+  },
+  {
+    "title": "Paper towns",
+    "genre": "romance",
+    "filename": "romance/096.jpg"
+  },
+  {
+    "title": "The Secret Woman",
+    "genre": "romance",
+    "filename": "romance/097.jpg"
+  },
+  {
+    "title": "Narziss und Goldmund",
+    "genre": "romance",
+    "filename": "romance/098.jpg"
+  },
+  {
+    "title": "Le premier homme",
+    "genre": "romance",
+    "filename": "romance/099.jpg"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "genre": "mystery",
+    "filename": "mystery/000.jpg"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "genre": "mystery",
+    "filename": "mystery/001.jpg"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "genre": "mystery",
+    "filename": "mystery/002.jpg"
+  },
+  {
+    "title": "The Secret Adversary",
+    "genre": "mystery",
+    "filename": "mystery/003.jpg"
+  },
+  {
+    "title": "The mystery of Edwin Drood",
+    "genre": "mystery",
+    "filename": "mystery/004.jpg"
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "genre": "mystery",
+    "filename": "mystery/005.jpg"
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "genre": "mystery",
+    "filename": "mystery/006.jpg"
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "genre": "mystery",
+    "filename": "mystery/007.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "genre": "mystery",
+    "filename": "mystery/008.jpg"
+  },
+  {
+    "title": "\u041f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+    "genre": "mystery",
+    "filename": "mystery/009.jpg"
+  },
+  {
+    "title": "Greenmantle",
+    "genre": "mystery",
+    "filename": "mystery/010.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "genre": "mystery",
+    "filename": "mystery/011.jpg"
+  },
+  {
+    "title": "Trent's Last Case",
+    "genre": "mystery",
+    "filename": "mystery/012.jpg"
+  },
+  {
+    "title": "Prester John",
+    "genre": "mystery",
+    "filename": "mystery/013.jpg"
+  },
+  {
+    "title": "Whose Body?",
+    "genre": "mystery",
+    "filename": "mystery/014.jpg"
+  },
+  {
+    "title": "Basil",
+    "genre": "mystery",
+    "filename": "mystery/015.jpg"
+  },
+  {
+    "title": "The Black Robe",
+    "genre": "mystery",
+    "filename": "mystery/016.jpg"
+  },
+  {
+    "title": "Murder on the Links",
+    "genre": "mystery",
+    "filename": "mystery/017.jpg"
+  },
+  {
+    "title": "Fifty Candles",
+    "genre": "mystery",
+    "filename": "mystery/018.jpg"
+  },
+  {
+    "title": "The Amateur Cracksman",
+    "genre": "mystery",
+    "filename": "mystery/019.jpg"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "genre": "mystery",
+    "filename": "mystery/020.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "genre": "mystery",
+    "filename": "mystery/021.jpg"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "genre": "mystery",
+    "filename": "mystery/022.jpg"
+  },
+  {
+    "title": "The After House",
+    "genre": "mystery",
+    "filename": "mystery/023.jpg"
+  },
+  {
+    "title": "The Angel of Terror",
+    "genre": "mystery",
+    "filename": "mystery/024.jpg"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "genre": "mystery",
+    "filename": "mystery/025.jpg"
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "genre": "mystery",
+    "filename": "mystery/026.jpg"
+  },
+  {
+    "title": "The Circular Staircase",
+    "genre": "mystery",
+    "filename": "mystery/027.jpg"
+  },
+  {
+    "title": "Tales of Terror and Mystery",
+    "genre": "mystery",
+    "filename": "mystery/028.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "genre": "mystery",
+    "filename": "mystery/029.jpg"
+  },
+  {
+    "title": "The Law and the Lady",
+    "genre": "mystery",
+    "filename": "mystery/030.jpg"
+  },
+  {
+    "title": "The Lodger",
+    "genre": "mystery",
+    "filename": "mystery/031.jpg"
+  },
+  {
+    "title": "R. Holmes & Co.",
+    "genre": "mystery",
+    "filename": "mystery/032.jpg"
+  },
+  {
+    "title": "L'affaire Lerouge",
+    "genre": "mystery",
+    "filename": "mystery/033.jpg"
+  },
+  {
+    "title": "The daffodil murder",
+    "genre": "mystery",
+    "filename": "mystery/034.jpg"
+  },
+  {
+    "title": "The A.B.C. Murders",
+    "genre": "mystery",
+    "filename": "mystery/035.jpg"
+  },
+  {
+    "title": "4:50 from Paddington",
+    "genre": "mystery",
+    "filename": "mystery/036.jpg"
+  },
+  {
+    "title": "The Mysterious Key And What It Opened",
+    "genre": "mystery",
+    "filename": "mystery/037.jpg"
+  },
+  {
+    "title": "Dead Men Tell No Tales",
+    "genre": "mystery",
+    "filename": "mystery/038.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "genre": "mystery",
+    "filename": "mystery/039.jpg"
+  },
+  {
+    "title": "The dead secret",
+    "genre": "mystery",
+    "filename": "mystery/040.jpg"
+  },
+  {
+    "title": "A Murder Is Announced",
+    "genre": "mystery",
+    "filename": "mystery/041.jpg"
+  },
+  {
+    "title": "The house by the church-yard",
+    "genre": "mystery",
+    "filename": "mystery/042.jpg"
+  },
+  {
+    "title": "The Murder at the Vicarage",
+    "genre": "mystery",
+    "filename": "mystery/043.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "genre": "mystery",
+    "filename": "mystery/044.jpg"
+  },
+  {
+    "title": "Evil Under the Sun",
+    "genre": "mystery",
+    "filename": "mystery/045.jpg"
+  },
+  {
+    "title": "In Cold Blood",
+    "genre": "mystery",
+    "filename": "mystery/046.jpg"
+  },
+  {
+    "title": "The Secret of Chimneys",
+    "genre": "mystery",
+    "filename": "mystery/047.jpg"
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side",
+    "genre": "mystery",
+    "filename": "mystery/048.jpg"
+  },
+  {
+    "title": "The Big Four",
+    "genre": "mystery",
+    "filename": "mystery/049.jpg"
+  },
+  {
+    "title": "The Body in the Library",
+    "genre": "mystery",
+    "filename": "mystery/050.jpg"
+  },
+  {
+    "title": "The moving finger",
+    "genre": "mystery",
+    "filename": "mystery/051.jpg"
+  },
+  {
+    "title": "Crooked House",
+    "genre": "mystery",
+    "filename": "mystery/052.jpg"
+  },
+  {
+    "title": "After the Funeral",
+    "genre": "mystery",
+    "filename": "mystery/053.jpg"
+  },
+  {
+    "title": "At Bertram's Hotel",
+    "genre": "mystery",
+    "filename": "mystery/054.jpg"
+  },
+  {
+    "title": "They Do It with Mirrors",
+    "genre": "mystery",
+    "filename": "mystery/055.jpg"
+  },
+  {
+    "title": "The Paradise Mystery",
+    "genre": "mystery",
+    "filename": "mystery/056.jpg"
+  },
+  {
+    "title": "Peril at End House",
+    "genre": "mystery",
+    "filename": "mystery/057.jpg"
+  },
+  {
+    "title": "Lord Edgware Dies",
+    "genre": "mystery",
+    "filename": "mystery/058.jpg"
+  },
+  {
+    "title": "A Caribbean Mystery",
+    "genre": "mystery",
+    "filename": "mystery/059.jpg"
+  },
+  {
+    "title": "Curtain",
+    "genre": "mystery",
+    "filename": "mystery/060.jpg"
+  },
+  {
+    "title": "The Franchise Affair (Inspector Alan Grant #3)",
+    "genre": "mystery",
+    "filename": "mystery/061.jpg"
+  },
+  {
+    "title": "Appointment with Death",
+    "genre": "mystery",
+    "filename": "mystery/062.jpg"
+  },
+  {
+    "title": "Sleeping Murder",
+    "genre": "mystery",
+    "filename": "mystery/063.jpg"
+  },
+  {
+    "title": "Hercule Poirot's Christmas",
+    "genre": "mystery",
+    "filename": "mystery/064.jpg"
+  },
+  {
+    "title": "Death in the Clouds",
+    "genre": "mystery",
+    "filename": "mystery/065.jpg"
+  },
+  {
+    "title": "Murder in Mesopotamia",
+    "genre": "mystery",
+    "filename": "mystery/066.jpg"
+  },
+  {
+    "title": "The Hollow",
+    "genre": "mystery",
+    "filename": "mystery/067.jpg"
+  },
+  {
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "genre": "mystery",
+    "filename": "mystery/068.jpg"
+  },
+  {
+    "title": "Five Little Pigs",
+    "genre": "mystery",
+    "filename": "mystery/069.jpg"
+  },
+  {
+    "title": "Murder in Three Acts",
+    "genre": "mystery",
+    "filename": "mystery/070.jpg"
+  },
+  {
+    "title": "Elephants Can Remember",
+    "genre": "mystery",
+    "filename": "mystery/071.jpg"
+  },
+  {
+    "title": "Nemesis",
+    "genre": "mystery",
+    "filename": "mystery/072.jpg"
+  },
+  {
+    "title": "Cards on the Table",
+    "genre": "mystery",
+    "filename": "mystery/073.jpg"
+  },
+  {
+    "title": "The Four Pools Mystery",
+    "genre": "mystery",
+    "filename": "mystery/074.jpg"
+  },
+  {
+    "title": "One, Two, Buckle My Shoe",
+    "genre": "mystery",
+    "filename": "mystery/075.jpg"
+  },
+  {
+    "title": "The legacy of Cain",
+    "genre": "mystery",
+    "filename": "mystery/076.jpg"
+  },
+  {
+    "title": "The Bobbsey Twins",
+    "genre": "mystery",
+    "filename": "mystery/077.jpg"
+  },
+  {
+    "title": "The Firm",
+    "genre": "mystery",
+    "filename": "mystery/078.jpg"
+  },
+  {
+    "title": "Dead Man's Folly",
+    "genre": "mystery",
+    "filename": "mystery/079.jpg"
+  },
+  {
+    "title": "Hallowe'en Party",
+    "genre": "mystery",
+    "filename": "mystery/080.jpg"
+  },
+  {
+    "title": "They Came to Baghdad",
+    "genre": "mystery",
+    "filename": "mystery/081.jpg"
+  },
+  {
+    "title": "The Clocks",
+    "genre": "mystery",
+    "filename": "mystery/082.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "genre": "mystery",
+    "filename": "mystery/083.jpg"
+  },
+  {
+    "title": "Cat Among the Pigeons",
+    "genre": "mystery",
+    "filename": "mystery/084.jpg"
+  },
+  {
+    "title": "No name",
+    "genre": "mystery",
+    "filename": "mystery/085.jpg"
+  },
+  {
+    "title": "Dumb Witness",
+    "genre": "mystery",
+    "filename": "mystery/086.jpg"
+  },
+  {
+    "title": "Third Girl",
+    "genre": "mystery",
+    "filename": "mystery/087.jpg"
+  },
+  {
+    "title": "The Thirteen Problems",
+    "genre": "mystery",
+    "filename": "mystery/088.jpg"
+  },
+  {
+    "title": "Mrs. McGinty's Dead",
+    "genre": "mystery",
+    "filename": "mystery/089.jpg"
+  },
+  {
+    "title": "The Labours of Hercules",
+    "genre": "mystery",
+    "filename": "mystery/090.jpg"
+  },
+  {
+    "title": "The Sittaford Mystery",
+    "genre": "mystery",
+    "filename": "mystery/091.jpg"
+  },
+  {
+    "title": "The Queen of Hearts",
+    "genre": "mystery",
+    "filename": "mystery/092.jpg"
+  },
+  {
+    "title": "The Devil Doctor",
+    "genre": "mystery",
+    "filename": "mystery/093.jpg"
+  },
+  {
+    "title": "A Shilling for Candles (Inspector Alan Grant #2)",
+    "genre": "mystery",
+    "filename": "mystery/094.jpg"
+  },
+  {
+    "title": "Death Comes as the End",
+    "genre": "mystery",
+    "filename": "mystery/095.jpg"
+  },
+  {
+    "title": "The Pelican Brief",
+    "genre": "mystery",
+    "filename": "mystery/096.jpg"
+  },
+  {
+    "title": "The Runaway Jury",
+    "genre": "mystery",
+    "filename": "mystery/097.jpg"
+  },
+  {
+    "title": "The Seven Dials Mystery",
+    "genre": "mystery",
+    "filename": "mystery/098.jpg"
+  },
+  {
+    "title": "The Client",
+    "genre": "mystery",
+    "filename": "mystery/099.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "genre": "fantasy",
+    "filename": "fantasy/000.jpg"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/001.jpg"
+  },
+  {
+    "title": "Treasure Island",
+    "genre": "fantasy",
+    "filename": "fantasy/002.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "genre": "fantasy",
+    "filename": "fantasy/003.jpg"
+  },
+  {
+    "title": "The Prince",
+    "genre": "fantasy",
+    "filename": "fantasy/004.jpg"
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "genre": "fantasy",
+    "filename": "fantasy/005.jpg"
+  },
+  {
+    "title": "Wind in the Willows",
+    "genre": "fantasy",
+    "filename": "fantasy/006.jpg"
+  },
+  {
+    "title": "Five Children and It",
+    "genre": "fantasy",
+    "filename": "fantasy/007.jpg"
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "genre": "fantasy",
+    "filename": "fantasy/008.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "genre": "fantasy",
+    "filename": "fantasy/009.jpg"
+  },
+  {
+    "title": "The Marvelous Land of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/010.jpg"
+  },
+  {
+    "title": "Ozma of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/011.jpg"
+  },
+  {
+    "title": "The Emerald City of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/012.jpg"
+  },
+  {
+    "title": "Dorothy and the Wizard in Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/013.jpg"
+  },
+  {
+    "title": "The Lost Princess of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/014.jpg"
+  },
+  {
+    "title": "The Story of the Amulet",
+    "genre": "fantasy",
+    "filename": "fantasy/015.jpg"
+  },
+  {
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "genre": "fantasy",
+    "filename": "fantasy/016.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "genre": "fantasy",
+    "filename": "fantasy/017.jpg"
+  },
+  {
+    "title": "The Road to Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/018.jpg"
+  },
+  {
+    "title": "The Sea Fairies",
+    "genre": "fantasy",
+    "filename": "fantasy/019.jpg"
+  },
+  {
+    "title": "Baum's American Fairy Tales",
+    "genre": "fantasy",
+    "filename": "fantasy/020.jpg"
+  },
+  {
+    "title": "Sky Island",
+    "genre": "fantasy",
+    "filename": "fantasy/021.jpg"
+  },
+  {
+    "title": "The Scarecrow of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/022.jpg"
+  },
+  {
+    "title": "The Patchwork Girl of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/023.jpg"
+  },
+  {
+    "title": "The Magic of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/024.jpg"
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/025.jpg"
+  },
+  {
+    "title": "Rinkitink in Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/026.jpg"
+  },
+  {
+    "title": "The Enchanted Castle",
+    "genre": "fantasy",
+    "filename": "fantasy/027.jpg"
+  },
+  {
+    "title": "The Tin Woodman of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/028.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "fantasy",
+    "filename": "fantasy/029.jpg"
+  },
+  {
+    "title": "Glinda of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/030.jpg"
+  },
+  {
+    "title": "The Magic City",
+    "genre": "fantasy",
+    "filename": "fantasy/031.jpg"
+  },
+  {
+    "title": "The Phoenix and the Carpet",
+    "genre": "fantasy",
+    "filename": "fantasy/032.jpg"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "genre": "fantasy",
+    "filename": "fantasy/033.jpg"
+  },
+  {
+    "title": "Le avventure di Pinocchio",
+    "genre": "fantasy",
+    "filename": "fantasy/034.jpg"
+  },
+  {
+    "title": "Peter Pan",
+    "genre": "fantasy",
+    "filename": "fantasy/035.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "genre": "fantasy",
+    "filename": "fantasy/036.jpg"
+  },
+  {
+    "title": "Phantastes",
+    "genre": "fantasy",
+    "filename": "fantasy/037.jpg"
+  },
+  {
+    "title": "Le petit prince",
+    "genre": "fantasy",
+    "filename": "fantasy/038.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "genre": "fantasy",
+    "filename": "fantasy/039.jpg"
+  },
+  {
+    "title": "Puck of Pook's Hill",
+    "genre": "fantasy",
+    "filename": "fantasy/040.jpg"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "genre": "fantasy",
+    "filename": "fantasy/041.jpg"
+  },
+  {
+    "title": "The Enchanted Island of Yew",
+    "genre": "fantasy",
+    "filename": "fantasy/042.jpg"
+  },
+  {
+    "title": "The Two Towers",
+    "genre": "fantasy",
+    "filename": "fantasy/043.jpg"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "genre": "fantasy",
+    "filename": "fantasy/044.jpg"
+  },
+  {
+    "title": "The Return of the King",
+    "genre": "fantasy",
+    "filename": "fantasy/045.jpg"
+  },
+  {
+    "title": "The Royal Book of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/046.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "genre": "fantasy",
+    "filename": "fantasy/047.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "genre": "fantasy",
+    "filename": "fantasy/048.jpg"
+  },
+  {
+    "title": "\u041c\u0430\u0441\u0442\u0435\u0440 \u0438 \u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+    "genre": "fantasy",
+    "filename": "fantasy/049.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "genre": "fantasy",
+    "filename": "fantasy/050.jpg"
+  },
+  {
+    "title": "The reluctant dragon",
+    "genre": "fantasy",
+    "filename": "fantasy/051.jpg"
+  },
+  {
+    "title": "The Moon Pool",
+    "genre": "fantasy",
+    "filename": "fantasy/052.jpg"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "genre": "fantasy",
+    "filename": "fantasy/053.jpg"
+  },
+  {
+    "title": "The Story of Doctor Dolittle",
+    "genre": "fantasy",
+    "filename": "fantasy/054.jpg"
+  },
+  {
+    "title": "News from Nowhere, or, An epoch of rest",
+    "genre": "fantasy",
+    "filename": "fantasy/055.jpg"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "genre": "fantasy",
+    "filename": "fantasy/056.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "genre": "fantasy",
+    "filename": "fantasy/057.jpg"
+  },
+  {
+    "title": "The Princess and the Goblin",
+    "genre": "fantasy",
+    "filename": "fantasy/058.jpg"
+  },
+  {
+    "title": "Cien a\u00f1os de soledad",
+    "genre": "fantasy",
+    "filename": "fantasy/059.jpg"
+  },
+  {
+    "title": "The wood beyond the world",
+    "genre": "fantasy",
+    "filename": "fantasy/060.jpg"
+  },
+  {
+    "title": "The water-babies",
+    "genre": "fantasy",
+    "filename": "fantasy/061.jpg"
+  },
+  {
+    "title": "Sylvie and Bruno",
+    "genre": "fantasy",
+    "filename": "fantasy/062.jpg"
+  },
+  {
+    "title": "Jurgen",
+    "genre": "fantasy",
+    "filename": "fantasy/063.jpg"
+  },
+  {
+    "title": "The Horse and His Boy",
+    "genre": "fantasy",
+    "filename": "fantasy/064.jpg"
+  },
+  {
+    "title": "Wet Magic",
+    "genre": "fantasy",
+    "filename": "fantasy/065.jpg"
+  },
+  {
+    "title": "Peter Pan in Kensington Gardens",
+    "genre": "fantasy",
+    "filename": "fantasy/066.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "genre": "fantasy",
+    "filename": "fantasy/067.jpg"
+  },
+  {
+    "title": "The Master Key",
+    "genre": "fantasy",
+    "filename": "fantasy/068.jpg"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "genre": "fantasy",
+    "filename": "fantasy/069.jpg"
+  },
+  {
+    "title": "James and the Giant Peach",
+    "genre": "fantasy",
+    "filename": "fantasy/070.jpg"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "genre": "fantasy",
+    "filename": "fantasy/071.jpg"
+  },
+  {
+    "title": "Charlotte's Web",
+    "genre": "fantasy",
+    "filename": "fantasy/072.jpg"
+  },
+  {
+    "title": "The Silmarillion",
+    "genre": "fantasy",
+    "filename": "fantasy/073.jpg"
+  },
+  {
+    "title": "Prince Caspian",
+    "genre": "fantasy",
+    "filename": "fantasy/074.jpg"
+  },
+  {
+    "title": "Northern Lights",
+    "genre": "fantasy",
+    "filename": "fantasy/075.jpg"
+  },
+  {
+    "title": "The BFG",
+    "genre": "fantasy",
+    "filename": "fantasy/076.jpg"
+  },
+  {
+    "title": "Lost Horizon",
+    "genre": "fantasy",
+    "filename": "fantasy/077.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "genre": "fantasy",
+    "filename": "fantasy/078.jpg"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "genre": "fantasy",
+    "filename": "fantasy/079.jpg"
+  },
+  {
+    "title": "Little Wizard stories of Oz",
+    "genre": "fantasy",
+    "filename": "fantasy/080.jpg"
+  },
+  {
+    "title": "The Well at the World's End",
+    "genre": "fantasy",
+    "filename": "fantasy/081.jpg"
+  },
+  {
+    "title": "The Silver Chair",
+    "genre": "fantasy",
+    "filename": "fantasy/082.jpg"
+  },
+  {
+    "title": "The Voyages of Doctor Dolittle",
+    "genre": "fantasy",
+    "filename": "fantasy/083.jpg"
+  },
+  {
+    "title": "Der Kleine Prinz (German)",
+    "genre": "fantasy",
+    "filename": "fantasy/084.jpg"
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "genre": "fantasy",
+    "filename": "fantasy/085.jpg"
+  },
+  {
+    "title": "A strange manuscript found in a copper cylinder",
+    "genre": "fantasy",
+    "filename": "fantasy/086.jpg"
+  },
+  {
+    "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zur\u00fcckbrachte",
+    "genre": "fantasy",
+    "filename": "fantasy/087.jpg"
+  },
+  {
+    "title": "The Last Battle",
+    "genre": "fantasy",
+    "filename": "fantasy/088.jpg"
+  },
+  {
+    "title": "The Subtle Knife",
+    "genre": "fantasy",
+    "filename": "fantasy/089.jpg"
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "genre": "fantasy",
+    "filename": "fantasy/090.jpg"
+  },
+  {
+    "title": "Catching Fire",
+    "genre": "fantasy",
+    "filename": "fantasy/091.jpg"
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "genre": "fantasy",
+    "filename": "fantasy/092.jpg"
+  },
+  {
+    "title": "The Lightning Thief",
+    "genre": "fantasy",
+    "filename": "fantasy/093.jpg"
+  },
+  {
+    "title": "Watership Down",
+    "genre": "fantasy",
+    "filename": "fantasy/094.jpg"
+  },
+  {
+    "title": "The Gunslinger",
+    "genre": "fantasy",
+    "filename": "fantasy/095.jpg"
+  },
+  {
+    "title": "Artemis Fowl",
+    "genre": "fantasy",
+    "filename": "fantasy/096.jpg"
+  },
+  {
+    "title": "The Colour of Magic",
+    "genre": "fantasy",
+    "filename": "fantasy/097.jpg"
+  },
+  {
+    "title": "New Moon",
+    "genre": "fantasy",
+    "filename": "fantasy/098.jpg"
+  },
+  {
+    "title": "A Game of Thrones",
+    "genre": "fantasy",
+    "filename": "fantasy/099.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "genre": "science fiction",
+    "filename": "science_fiction/000.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "genre": "science fiction",
+    "filename": "science_fiction/001.jpg"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "genre": "science fiction",
+    "filename": "science_fiction/002.jpg"
+  },
+  {
+    "title": "The Time Machine",
+    "genre": "science fiction",
+    "filename": "science_fiction/003.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "genre": "science fiction",
+    "filename": "science_fiction/004.jpg"
+  },
+  {
+    "title": "Dracula",
+    "genre": "science fiction",
+    "filename": "science_fiction/005.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "genre": "science fiction",
+    "filename": "science_fiction/006.jpg"
+  },
+  {
+    "title": "The Iron Heel",
+    "genre": "science fiction",
+    "filename": "science_fiction/007.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "genre": "science fiction",
+    "filename": "science_fiction/008.jpg"
+  },
+  {
+    "title": "Flatland",
+    "genre": "science fiction",
+    "filename": "science_fiction/009.jpg"
+  },
+  {
+    "title": "The War of the Worlds",
+    "genre": "science fiction",
+    "filename": "science_fiction/010.jpg"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "genre": "science fiction",
+    "filename": "science_fiction/011.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "genre": "science fiction",
+    "filename": "science_fiction/012.jpg"
+  },
+  {
+    "title": "The Princess and Curdie",
+    "genre": "science fiction",
+    "filename": "science_fiction/013.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "genre": "science fiction",
+    "filename": "science_fiction/014.jpg"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "genre": "science fiction",
+    "filename": "science_fiction/015.jpg"
+  },
+  {
+    "title": "The Poison Belt",
+    "genre": "science fiction",
+    "filename": "science_fiction/016.jpg"
+  },
+  {
+    "title": "The Island of Dr. Moreau",
+    "genre": "science fiction",
+    "filename": "science_fiction/017.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "genre": "science fiction",
+    "filename": "science_fiction/018.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "genre": "science fiction",
+    "filename": "science_fiction/019.jpg"
+  },
+  {
+    "title": "The Moon Pool",
+    "genre": "science fiction",
+    "filename": "science_fiction/020.jpg"
+  },
+  {
+    "title": "At The Earth's Core And Out Of Time's Abyss",
+    "genre": "science fiction",
+    "filename": "science_fiction/021.jpg"
+  },
+  {
+    "title": "The warlord of Mars #3",
+    "genre": "science fiction",
+    "filename": "science_fiction/022.jpg"
+  },
+  {
+    "title": "\u041c\u044b",
+    "genre": "science fiction",
+    "filename": "science_fiction/023.jpg"
+  },
+  {
+    "title": "De la terre \u00e0 la lune",
+    "genre": "science fiction",
+    "filename": "science_fiction/024.jpg"
+  },
+  {
+    "title": "Thuvia, Maid of Mars",
+    "genre": "science fiction",
+    "filename": "science_fiction/025.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "genre": "science fiction",
+    "filename": "science_fiction/026.jpg"
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "genre": "science fiction",
+    "filename": "science_fiction/027.jpg"
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "genre": "science fiction",
+    "filename": "science_fiction/028.jpg"
+  },
+  {
+    "title": "When the Sleeper Awakes",
+    "genre": "science fiction",
+    "filename": "science_fiction/029.jpg"
+  },
+  {
+    "title": "The food of the gods and how it came to earth",
+    "genre": "science fiction",
+    "filename": "science_fiction/030.jpg"
+  },
+  {
+    "title": "The wood beyond the world",
+    "genre": "science fiction",
+    "filename": "science_fiction/031.jpg"
+  },
+  {
+    "title": "R.U.R. and The insect play",
+    "genre": "science fiction",
+    "filename": "science_fiction/032.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "genre": "science fiction",
+    "filename": "science_fiction/033.jpg"
+  },
+  {
+    "title": "The Martian Chronicles",
+    "genre": "science fiction",
+    "filename": "science_fiction/034.jpg"
+  },
+  {
+    "title": "In the days of the comet",
+    "genre": "science fiction",
+    "filename": "science_fiction/035.jpg"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "genre": "science fiction",
+    "filename": "science_fiction/036.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "genre": "science fiction",
+    "filename": "science_fiction/037.jpg"
+  },
+  {
+    "title": "On The Beach",
+    "genre": "science fiction",
+    "filename": "science_fiction/038.jpg"
+  },
+  {
+    "title": "The Hitch Hiker's Guide to the Galaxy",
+    "genre": "science fiction",
+    "filename": "science_fiction/039.jpg"
+  },
+  {
+    "title": "It Can't Happen Here",
+    "genre": "science fiction",
+    "filename": "science_fiction/040.jpg"
+  },
+  {
+    "title": "2001",
+    "genre": "science fiction",
+    "filename": "science_fiction/041.jpg"
+  },
+  {
+    "title": "Dune",
+    "genre": "science fiction",
+    "filename": "science_fiction/042.jpg"
+  },
+  {
+    "title": "The First Men in the Moon",
+    "genre": "science fiction",
+    "filename": "science_fiction/043.jpg"
+  },
+  {
+    "title": "A strange manuscript found in a copper cylinder",
+    "genre": "science fiction",
+    "filename": "science_fiction/044.jpg"
+  },
+  {
+    "title": "Charlie and the Great Glass Elevator",
+    "genre": "science fiction",
+    "filename": "science_fiction/045.jpg"
+  },
+  {
+    "title": "The Giver",
+    "genre": "science fiction",
+    "filename": "science_fiction/046.jpg"
+  },
+  {
+    "title": "The ship of Ishtar",
+    "genre": "science fiction",
+    "filename": "science_fiction/047.jpg"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "genre": "science fiction",
+    "filename": "science_fiction/048.jpg"
+  },
+  {
+    "title": "Ender's Game",
+    "genre": "science fiction",
+    "filename": "science_fiction/049.jpg"
+  },
+  {
+    "title": "A Modern Utopia",
+    "genre": "science fiction",
+    "filename": "science_fiction/050.jpg"
+  },
+  {
+    "title": "Catching Fire",
+    "genre": "science fiction",
+    "filename": "science_fiction/051.jpg"
+  },
+  {
+    "title": "Foundation",
+    "genre": "science fiction",
+    "filename": "science_fiction/052.jpg"
+  },
+  {
+    "title": "I, Robot",
+    "genre": "science fiction",
+    "filename": "science_fiction/053.jpg"
+  },
+  {
+    "title": "The Gunslinger",
+    "genre": "science fiction",
+    "filename": "science_fiction/054.jpg"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "genre": "science fiction",
+    "filename": "science_fiction/055.jpg"
+  },
+  {
+    "title": "Deception Point",
+    "genre": "science fiction",
+    "filename": "science_fiction/056.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "genre": "science fiction",
+    "filename": "science_fiction/057.jpg"
+  },
+  {
+    "title": "The Time Traders",
+    "genre": "science fiction",
+    "filename": "science_fiction/058.jpg"
+  },
+  {
+    "title": "Plague Ship",
+    "genre": "science fiction",
+    "filename": "science_fiction/059.jpg"
+  },
+  {
+    "title": "The Restaurant at the End of the Universe",
+    "genre": "science fiction",
+    "filename": "science_fiction/060.jpg"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "genre": "science fiction",
+    "filename": "science_fiction/061.jpg"
+  },
+  {
+    "title": "The Blind Assassin",
+    "genre": "science fiction",
+    "filename": "science_fiction/062.jpg"
+  },
+  {
+    "title": "Star Born",
+    "genre": "science fiction",
+    "filename": "science_fiction/063.jpg"
+  },
+  {
+    "title": "Mockingjay",
+    "genre": "science fiction",
+    "filename": "science_fiction/064.jpg"
+  },
+  {
+    "title": "The Dead Zone",
+    "genre": "science fiction",
+    "filename": "science_fiction/065.jpg"
+  },
+  {
+    "title": "La casa verde",
+    "genre": "science fiction",
+    "filename": "science_fiction/066.jpg"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "genre": "science fiction",
+    "filename": "science_fiction/067.jpg"
+  },
+  {
+    "title": "A Game of Thrones",
+    "genre": "science fiction",
+    "filename": "science_fiction/068.jpg"
+  },
+  {
+    "title": "The Man in the High Castle",
+    "genre": "science fiction",
+    "filename": "science_fiction/069.jpg"
+  },
+  {
+    "title": "L'\u00cele myst\u00e9rieuse",
+    "genre": "science fiction",
+    "filename": "science_fiction/070.jpg"
+  },
+  {
+    "title": "The Stand",
+    "genre": "science fiction",
+    "filename": "science_fiction/071.jpg"
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "genre": "science fiction",
+    "filename": "science_fiction/072.jpg"
+  },
+  {
+    "title": "Foundation and Empire",
+    "genre": "science fiction",
+    "filename": "science_fiction/073.jpg"
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "genre": "science fiction",
+    "filename": "science_fiction/074.jpg"
+  },
+  {
+    "title": "Second Foundation",
+    "genre": "science fiction",
+    "filename": "science_fiction/075.jpg"
+  },
+  {
+    "title": "The Amber Spyglass",
+    "genre": "science fiction",
+    "filename": "science_fiction/076.jpg"
+  },
+  {
+    "title": "The man who ended war",
+    "genre": "science fiction",
+    "filename": "science_fiction/077.jpg"
+  },
+  {
+    "title": "Flowers for Algernon",
+    "genre": "science fiction",
+    "filename": "science_fiction/078.jpg"
+  },
+  {
+    "title": "Storm Over Warlock",
+    "genre": "science fiction",
+    "filename": "science_fiction/079.jpg"
+  },
+  {
+    "title": "Tales of space and time",
+    "genre": "science fiction",
+    "filename": "science_fiction/080.jpg"
+  },
+  {
+    "title": "Star Maker",
+    "genre": "science fiction",
+    "filename": "science_fiction/081.jpg"
+  },
+  {
+    "title": "Firestarter",
+    "genre": "science fiction",
+    "filename": "science_fiction/082.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "genre": "science fiction",
+    "filename": "science_fiction/083.jpg"
+  },
+  {
+    "title": "The Illustrated Man",
+    "genre": "science fiction",
+    "filename": "science_fiction/084.jpg"
+  },
+  {
+    "title": "The Chessmen of Mars",
+    "genre": "science fiction",
+    "filename": "science_fiction/085.jpg"
+  },
+  {
+    "title": "V\u00e1lka s mloky",
+    "genre": "science fiction",
+    "filename": "science_fiction/086.jpg"
+  },
+  {
+    "title": "So long, and thanks for all the fish",
+    "genre": "science fiction",
+    "filename": "science_fiction/087.jpg"
+  },
+  {
+    "title": "The Blazing World",
+    "genre": "science fiction",
+    "filename": "science_fiction/088.jpg"
+  },
+  {
+    "title": "Last and First Men",
+    "genre": "science fiction",
+    "filename": "science_fiction/089.jpg"
+  },
+  {
+    "title": "American Gods",
+    "genre": "science fiction",
+    "filename": "science_fiction/090.jpg"
+  },
+  {
+    "title": "The Martian",
+    "genre": "science fiction",
+    "filename": "science_fiction/091.jpg"
+  },
+  {
+    "title": "Childhood\u2019s End",
+    "genre": "science fiction",
+    "filename": "science_fiction/092.jpg"
+  },
+  {
+    "title": "The Scarlet Plague",
+    "genre": "science fiction",
+    "filename": "science_fiction/093.jpg"
+  },
+  {
+    "title": "The Adventures of Captain Underpants",
+    "genre": "science fiction",
+    "filename": "science_fiction/094.jpg"
+  },
+  {
+    "title": "The Dispossessed",
+    "genre": "science fiction",
+    "filename": "science_fiction/095.jpg"
+  },
+  {
+    "title": "Key Out of Time",
+    "genre": "science fiction",
+    "filename": "science_fiction/096.jpg"
+  },
+  {
+    "title": "Dune Messiah",
+    "genre": "science fiction",
+    "filename": "science_fiction/097.jpg"
+  },
+  {
+    "title": "A Canticle for Leibowitz",
+    "genre": "science fiction",
+    "filename": "science_fiction/098.jpg"
+  },
+  {
+    "title": "On Writing",
+    "genre": "science fiction",
+    "filename": "science_fiction/099.jpg"
+  },
+  {
+    "title": "Treasure Island",
+    "genre": "thriller",
+    "filename": "thriller/000.jpg"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "genre": "thriller",
+    "filename": "thriller/001.jpg"
+  },
+  {
+    "title": "Dracula",
+    "genre": "thriller",
+    "filename": "thriller/002.jpg"
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "genre": "thriller",
+    "filename": "thriller/003.jpg"
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "genre": "thriller",
+    "filename": "thriller/004.jpg"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "genre": "thriller",
+    "filename": "thriller/005.jpg"
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "genre": "thriller",
+    "filename": "thriller/006.jpg"
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "genre": "thriller",
+    "filename": "thriller/007.jpg"
+  },
+  {
+    "title": "The deerslayer",
+    "genre": "thriller",
+    "filename": "thriller/008.jpg"
+  },
+  {
+    "title": "The Pathfinder",
+    "genre": "thriller",
+    "filename": "thriller/009.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "genre": "thriller",
+    "filename": "thriller/010.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "genre": "thriller",
+    "filename": "thriller/011.jpg"
+  },
+  {
+    "title": "The pioneers",
+    "genre": "thriller",
+    "filename": "thriller/012.jpg"
+  },
+  {
+    "title": "White Fang",
+    "genre": "thriller",
+    "filename": "thriller/013.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "genre": "thriller",
+    "filename": "thriller/014.jpg"
+  },
+  {
+    "title": "Mr. Standfast",
+    "genre": "thriller",
+    "filename": "thriller/015.jpg"
+  },
+  {
+    "title": "A strange disappearance",
+    "genre": "thriller",
+    "filename": "thriller/016.jpg"
+  },
+  {
+    "title": "The Evil Shepherd",
+    "genre": "thriller",
+    "filename": "thriller/017.jpg"
+  },
+  {
+    "title": "Otto of the Silver Hand",
+    "genre": "thriller",
+    "filename": "thriller/018.jpg"
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "genre": "thriller",
+    "filename": "thriller/019.jpg"
+  },
+  {
+    "title": "Lord of the Flies",
+    "genre": "thriller",
+    "filename": "thriller/020.jpg"
+  },
+  {
+    "title": "The Beetle",
+    "genre": "thriller",
+    "filename": "thriller/021.jpg"
+  },
+  {
+    "title": "An American Tragedy",
+    "genre": "thriller",
+    "filename": "thriller/022.jpg"
+  },
+  {
+    "title": "In Secret",
+    "genre": "thriller",
+    "filename": "thriller/023.jpg"
+  },
+  {
+    "title": "The Drums of Jeopardy",
+    "genre": "thriller",
+    "filename": "thriller/024.jpg"
+  },
+  {
+    "title": "Nightmare Abbey",
+    "genre": "thriller",
+    "filename": "thriller/025.jpg"
+  },
+  {
+    "title": "The Eye of Osiris",
+    "genre": "thriller",
+    "filename": "thriller/026.jpg"
+  },
+  {
+    "title": "Carrie",
+    "genre": "thriller",
+    "filename": "thriller/027.jpg"
+  },
+  {
+    "title": "The Four Just Men",
+    "genre": "thriller",
+    "filename": "thriller/028.jpg"
+  },
+  {
+    "title": "Misery",
+    "genre": "thriller",
+    "filename": "thriller/029.jpg"
+  },
+  {
+    "title": "I, Robot",
+    "genre": "thriller",
+    "filename": "thriller/030.jpg"
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "genre": "thriller",
+    "filename": "thriller/031.jpg"
+  },
+  {
+    "title": "The Devil Doctor",
+    "genre": "thriller",
+    "filename": "thriller/032.jpg"
+  },
+  {
+    "title": "Storm Island",
+    "genre": "thriller",
+    "filename": "thriller/033.jpg"
+  },
+  {
+    "title": "The Stand",
+    "genre": "thriller",
+    "filename": "thriller/034.jpg"
+  },
+  {
+    "title": "A Time to Kill",
+    "genre": "thriller",
+    "filename": "thriller/035.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "genre": "thriller",
+    "filename": "thriller/036.jpg"
+  },
+  {
+    "title": "The Chamber",
+    "genre": "thriller",
+    "filename": "thriller/037.jpg"
+  },
+  {
+    "title": "The Haunted and the Haunters, Or, The House and the Brain",
+    "genre": "thriller",
+    "filename": "thriller/038.jpg"
+  },
+  {
+    "title": "War in heaven",
+    "genre": "thriller",
+    "filename": "thriller/039.jpg"
+  },
+  {
+    "title": "The Rainmaker",
+    "genre": "thriller",
+    "filename": "thriller/040.jpg"
+  },
+  {
+    "title": "The Centaur",
+    "genre": "thriller",
+    "filename": "thriller/041.jpg"
+  },
+  {
+    "title": "The Eyes of the Dragon",
+    "genre": "thriller",
+    "filename": "thriller/042.jpg"
+  },
+  {
+    "title": "Saving Faith",
+    "genre": "thriller",
+    "filename": "thriller/043.jpg"
+  },
+  {
+    "title": "Four Past Midnight",
+    "genre": "thriller",
+    "filename": "thriller/044.jpg"
+  },
+  {
+    "title": "Timeline",
+    "genre": "thriller",
+    "filename": "thriller/045.jpg"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "genre": "thriller",
+    "filename": "thriller/046.jpg"
+  },
+  {
+    "title": "A Coffin for Dimitrios",
+    "genre": "thriller",
+    "filename": "thriller/047.jpg"
+  },
+  {
+    "title": "Christine",
+    "genre": "thriller",
+    "filename": "thriller/048.jpg"
+  },
+  {
+    "title": "The Avenger",
+    "genre": "thriller",
+    "filename": "thriller/049.jpg"
+  },
+  {
+    "title": "The Eagle Has Landed",
+    "genre": "thriller",
+    "filename": "thriller/050.jpg"
+  },
+  {
+    "title": "Jack Tier or the Florida Reef",
+    "genre": "thriller",
+    "filename": "thriller/051.jpg"
+  },
+  {
+    "title": "Red Dragon",
+    "genre": "thriller",
+    "filename": "thriller/052.jpg"
+  },
+  {
+    "title": "The Tommyknockers",
+    "genre": "thriller",
+    "filename": "thriller/053.jpg"
+  },
+  {
+    "title": "The Malefactor",
+    "genre": "thriller",
+    "filename": "thriller/054.jpg"
+  },
+  {
+    "title": "Rose Madder",
+    "genre": "thriller",
+    "filename": "thriller/055.jpg"
+  },
+  {
+    "title": "Homeward Bound, Or, The Chase: A Tale of the Sea",
+    "genre": "thriller",
+    "filename": "thriller/056.jpg"
+  },
+  {
+    "title": "From a Buick 8",
+    "genre": "thriller",
+    "filename": "thriller/057.jpg"
+  },
+  {
+    "title": "The Man from St. Petersburg",
+    "genre": "thriller",
+    "filename": "thriller/058.jpg"
+  },
+  {
+    "title": "M\u00e4n som hatar kvinnor",
+    "genre": "thriller",
+    "filename": "thriller/059.jpg"
+  },
+  {
+    "title": "Killing floor",
+    "genre": "thriller",
+    "filename": "thriller/060.jpg"
+  },
+  {
+    "title": "The King of Torts",
+    "genre": "thriller",
+    "filename": "thriller/061.jpg"
+  },
+  {
+    "title": "Last Man Standing",
+    "genre": "thriller",
+    "filename": "thriller/062.jpg"
+  },
+  {
+    "title": "The Great Secret",
+    "genre": "thriller",
+    "filename": "thriller/063.jpg"
+  },
+  {
+    "title": "The sea lions",
+    "genre": "thriller",
+    "filename": "thriller/064.jpg"
+  },
+  {
+    "title": "The Black Dahlia",
+    "genre": "thriller",
+    "filename": "thriller/065.jpg"
+  },
+  {
+    "title": "A Taste for Death",
+    "genre": "thriller",
+    "filename": "thriller/066.jpg"
+  },
+  {
+    "title": "Jack & Jill",
+    "genre": "thriller",
+    "filename": "thriller/067.jpg"
+  },
+  {
+    "title": "Michael Strogoff",
+    "genre": "thriller",
+    "filename": "thriller/068.jpg"
+  },
+  {
+    "title": "Roses Are Red",
+    "genre": "thriller",
+    "filename": "thriller/069.jpg"
+  },
+  {
+    "title": "Hannibal",
+    "genre": "thriller",
+    "filename": "thriller/070.jpg"
+  },
+  {
+    "title": "The Devil's Paw",
+    "genre": "thriller",
+    "filename": "thriller/071.jpg"
+  },
+  {
+    "title": "Hour Game",
+    "genre": "thriller",
+    "filename": "thriller/072.jpg"
+  },
+  {
+    "title": "One Shot",
+    "genre": "thriller",
+    "filename": "thriller/073.jpg"
+  },
+  {
+    "title": "The Winner",
+    "genre": "thriller",
+    "filename": "thriller/074.jpg"
+  },
+  {
+    "title": "The Collectors",
+    "genre": "thriller",
+    "filename": "thriller/075.jpg"
+  },
+  {
+    "title": "Mr. Mercedes",
+    "genre": "thriller",
+    "filename": "thriller/076.jpg"
+  },
+  {
+    "title": "Lie Down With Lions",
+    "genre": "thriller",
+    "filename": "thriller/077.jpg"
+  },
+  {
+    "title": "Step on a Crack",
+    "genre": "thriller",
+    "filename": "thriller/078.jpg"
+  },
+  {
+    "title": "Stormbreaker",
+    "genre": "thriller",
+    "filename": "thriller/079.jpg"
+  },
+  {
+    "title": "Point Blanc",
+    "genre": "thriller",
+    "filename": "thriller/080.jpg"
+  },
+  {
+    "title": "The Light of Day",
+    "genre": "thriller",
+    "filename": "thriller/081.jpg"
+  },
+  {
+    "title": "The Illustrious Prince",
+    "genre": "thriller",
+    "filename": "thriller/082.jpg"
+  },
+  {
+    "title": "Dope",
+    "genre": "thriller",
+    "filename": "thriller/083.jpg"
+  },
+  {
+    "title": "Cathedral",
+    "genre": "thriller",
+    "filename": "thriller/084.jpg"
+  },
+  {
+    "title": "The amateur gentleman",
+    "genre": "thriller",
+    "filename": "thriller/085.jpg"
+  },
+  {
+    "title": "Persuader",
+    "genre": "thriller",
+    "filename": "thriller/086.jpg"
+  },
+  {
+    "title": "Black Friday",
+    "genre": "thriller",
+    "filename": "thriller/087.jpg"
+  },
+  {
+    "title": "Tripwire",
+    "genre": "thriller",
+    "filename": "thriller/088.jpg"
+  },
+  {
+    "title": "Stone Cold",
+    "genre": "thriller",
+    "filename": "thriller/089.jpg"
+  },
+  {
+    "title": "The Stepford Wives",
+    "genre": "thriller",
+    "filename": "thriller/090.jpg"
+  },
+  {
+    "title": "Fant\u00f4mas",
+    "genre": "thriller",
+    "filename": "thriller/091.jpg"
+  },
+  {
+    "title": "The enemy",
+    "genre": "thriller",
+    "filename": "thriller/092.jpg"
+  },
+  {
+    "title": "The Circle",
+    "genre": "thriller",
+    "filename": "thriller/093.jpg"
+  },
+  {
+    "title": "The Last Juror",
+    "genre": "thriller",
+    "filename": "thriller/094.jpg"
+  },
+  {
+    "title": "Bad Luck and Trouble",
+    "genre": "thriller",
+    "filename": "thriller/095.jpg"
+  },
+  {
+    "title": "The Mediterranean Caper",
+    "genre": "thriller",
+    "filename": "thriller/096.jpg"
+  },
+  {
+    "title": "The Camel Club",
+    "genre": "thriller",
+    "filename": "thriller/097.jpg"
+  },
+  {
+    "title": "Without fail",
+    "genre": "thriller",
+    "filename": "thriller/098.jpg"
+  },
+  {
+    "title": "The slave of the lamp",
+    "genre": "thriller",
+    "filename": "thriller/099.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/000.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/001.jpg"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/002.jpg"
+  },
+  {
+    "title": "Emma",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/003.jpg"
+  },
+  {
+    "title": "Oliver Twist",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/004.jpg"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/005.jpg"
+  },
+  {
+    "title": "Treasure Island",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/006.jpg"
+  },
+  {
+    "title": "Little Women",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/007.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/008.jpg"
+  },
+  {
+    "title": "Les Trois Mousquetaires",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/009.jpg"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/010.jpg"
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/011.jpg"
+  },
+  {
+    "title": "David Copperfield",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/012.jpg"
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/013.jpg"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/014.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/015.jpg"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/016.jpg"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/017.jpg"
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/018.jpg"
+  },
+  {
+    "title": "Ulysses",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/019.jpg"
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/020.jpg"
+  },
+  {
+    "title": "Flatland",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/021.jpg"
+  },
+  {
+    "title": "Shirley",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/022.jpg"
+  },
+  {
+    "title": "Les Mis\u00e9rables",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/023.jpg"
+  },
+  {
+    "title": "The deerslayer",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/024.jpg"
+  },
+  {
+    "title": "A history of New York",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/025.jpg"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/026.jpg"
+  },
+  {
+    "title": "Metamorphoses",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/027.jpg"
+  },
+  {
+    "title": "The Pathfinder",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/028.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/029.jpg"
+  },
+  {
+    "title": "La tulipe noire",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/030.jpg"
+  },
+  {
+    "title": "The Prairie",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/031.jpg"
+  },
+  {
+    "title": "The Woodlanders",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/032.jpg"
+  },
+  {
+    "title": "The moon and sixpence",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/033.jpg"
+  },
+  {
+    "title": "Rob Roy",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/034.jpg"
+  },
+  {
+    "title": "The pioneers",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/035.jpg"
+  },
+  {
+    "title": "White Fang",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/036.jpg"
+  },
+  {
+    "title": "The Jungle",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/037.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/038.jpg"
+  },
+  {
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/039.jpg"
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/040.jpg"
+  },
+  {
+    "title": "The Elusive Pimpernel (Scarlet Pimpernel)",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/041.jpg"
+  },
+  {
+    "title": "Tender is the Night",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/042.jpg"
+  },
+  {
+    "title": "A Little Princess",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/043.jpg"
+  },
+  {
+    "title": "The Age of Innocence",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/044.jpg"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/045.jpg"
+  },
+  {
+    "title": "Voskresen\u012be",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/046.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/047.jpg"
+  },
+  {
+    "title": "Gone With the Wind",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/048.jpg"
+  },
+  {
+    "title": "The Ambassadors",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/049.jpg"
+  },
+  {
+    "title": "Far From the Madding Crowd",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/050.jpg"
+  },
+  {
+    "title": "Ivanhoe",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/051.jpg"
+  },
+  {
+    "title": "Tarzan of the Apes",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/052.jpg"
+  },
+  {
+    "title": "Washington Square",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/053.jpg"
+  },
+  {
+    "title": "The warlord of Mars #3",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/054.jpg"
+  },
+  {
+    "title": "The League of the Scarlet Pimpernel",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/055.jpg"
+  },
+  {
+    "title": "Boyhood",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/056.jpg"
+  },
+  {
+    "title": "Siddhartha",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/057.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/058.jpg"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/059.jpg"
+  },
+  {
+    "title": "The Last Days of Pompeii",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/060.jpg"
+  },
+  {
+    "title": "Ben Hur",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/061.jpg"
+  },
+  {
+    "title": "Of Mice and Men",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/062.jpg"
+  },
+  {
+    "title": "\u0421\u043c\u0435\u0440\u0442\u044c \u0418\u0432\u0430\u043d\u0430 \u0418\u043b\u044c\u0438\u0447\u0430",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/063.jpg"
+  },
+  {
+    "title": "El Dorado",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/064.jpg"
+  },
+  {
+    "title": "A Room with a View",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/065.jpg"
+  },
+  {
+    "title": "Heidi",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/066.jpg"
+  },
+  {
+    "title": "\u0414\u043e\u043a\u0442\u043e\u0440 \u0416\u0438\u0432\u0430\u0433\u043e",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/067.jpg"
+  },
+  {
+    "title": "The  black arrow",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/068.jpg"
+  },
+  {
+    "title": "The spy",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/069.jpg"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/070.jpg"
+  },
+  {
+    "title": "Howards End",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/071.jpg"
+  },
+  {
+    "title": "A Final Reckoning",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/072.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/073.jpg"
+  },
+  {
+    "title": "Midwinter",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/074.jpg"
+  },
+  {
+    "title": "Life on the Mississippi",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/075.jpg"
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/076.jpg"
+  },
+  {
+    "title": "The adventures of Captain Bonneville, U.S.A.",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/077.jpg"
+  },
+  {
+    "title": "O Pioneers!",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/078.jpg"
+  },
+  {
+    "title": "Bel-Ami",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/079.jpg"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/080.jpg"
+  },
+  {
+    "title": "Democracy",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/081.jpg"
+  },
+  {
+    "title": "The way of all flesh",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/082.jpg"
+  },
+  {
+    "title": "The Bostonians",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/083.jpg"
+  },
+  {
+    "title": "El amor en los tiempos del c\u00f3lera",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/084.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/085.jpg"
+  },
+  {
+    "title": "The Lost Symbol",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/086.jpg"
+  },
+  {
+    "title": "The Complete Sherlock Holmes [4 novels, 56 stories]",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/087.jpg"
+  },
+  {
+    "title": "Helen of Troy: Her Life and Translation Done Into Rhyme from the Greek Books",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/088.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/089.jpg"
+  },
+  {
+    "title": "The Trumpet-Major, and Robert His Brother",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/090.jpg"
+  },
+  {
+    "title": "Die Blechtrommel",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/091.jpg"
+  },
+  {
+    "title": "Ten Years Later",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/092.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/093.jpg"
+  },
+  {
+    "title": "Perfume",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/094.jpg"
+  },
+  {
+    "title": "Beloved",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/095.jpg"
+  },
+  {
+    "title": "The Pearl",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/096.jpg"
+  },
+  {
+    "title": "In Freedom's Cause",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/097.jpg"
+  },
+  {
+    "title": "Quo Vadis?",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/098.jpg"
+  },
+  {
+    "title": "Noli Me Tangere",
+    "genre": "historical fiction",
+    "filename": "historical_fiction/099.jpg"
+  },
+  {
+    "title": "Oliver Twist",
+    "genre": "young adult",
+    "filename": "young_adult/000.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "genre": "young adult",
+    "filename": "young_adult/001.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "genre": "young adult",
+    "filename": "young_adult/002.jpg"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "genre": "young adult",
+    "filename": "young_adult/003.jpg"
+  },
+  {
+    "title": "The BFG",
+    "genre": "young adult",
+    "filename": "young_adult/004.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "genre": "young adult",
+    "filename": "young_adult/005.jpg"
+  },
+  {
+    "title": "The Bobbsey Twins",
+    "genre": "young adult",
+    "filename": "young_adult/006.jpg"
+  },
+  {
+    "title": "Mockingjay",
+    "genre": "young adult",
+    "filename": "young_adult/007.jpg"
+  },
+  {
+    "title": "Hatchet",
+    "genre": "young adult",
+    "filename": "young_adult/008.jpg"
+  },
+  {
+    "title": "The Hate U Give",
+    "genre": "young adult",
+    "filename": "young_adult/009.jpg"
+  },
+  {
+    "title": "Divergent",
+    "genre": "young adult",
+    "filename": "young_adult/010.jpg"
+  },
+  {
+    "title": "Sabriel",
+    "genre": "young adult",
+    "filename": "young_adult/011.jpg"
+  },
+  {
+    "title": "The Graveyard Book",
+    "genre": "young adult",
+    "filename": "young_adult/012.jpg"
+  },
+  {
+    "title": "The White Mountains (The Tripods #1)",
+    "genre": "young adult",
+    "filename": "young_adult/013.jpg"
+  },
+  {
+    "title": "The Great Gilly Hopkins (M Books)",
+    "genre": "young adult",
+    "filename": "young_adult/014.jpg"
+  },
+  {
+    "title": "The Whipping Boy",
+    "genre": "young adult",
+    "filename": "young_adult/015.jpg"
+  },
+  {
+    "title": "An Abundance of Katherines",
+    "genre": "young adult",
+    "filename": "young_adult/016.jpg"
+  },
+  {
+    "title": "Allegiant",
+    "genre": "young adult",
+    "filename": "young_adult/017.jpg"
+  },
+  {
+    "title": "The Black Stallion",
+    "genre": "young adult",
+    "filename": "young_adult/018.jpg"
+  },
+  {
+    "title": "The Harvester",
+    "genre": "young adult",
+    "filename": "young_adult/019.jpg"
+  },
+  {
+    "title": "The Eagle of the Ninth. 1400 Grundw\u00f6rter.",
+    "genre": "young adult",
+    "filename": "young_adult/020.jpg"
+  },
+  {
+    "title": "The Face on the Milk Carton",
+    "genre": "young adult",
+    "filename": "young_adult/021.jpg"
+  },
+  {
+    "title": "The city boy",
+    "genre": "young adult",
+    "filename": "young_adult/022.jpg"
+  },
+  {
+    "title": "Scary stories to tell in the dark",
+    "genre": "young adult",
+    "filename": "young_adult/023.jpg"
+  },
+  {
+    "title": "Red Rising",
+    "genre": "young adult",
+    "filename": "young_adult/024.jpg"
+  },
+  {
+    "title": "Simon vs. the Homo Sapiens Agenda",
+    "genre": "young adult",
+    "filename": "young_adult/025.jpg"
+  },
+  {
+    "title": "Freak the Mighty",
+    "genre": "young adult",
+    "filename": "young_adult/026.jpg"
+  },
+  {
+    "title": "Me Talk Pretty One Day",
+    "genre": "young adult",
+    "filename": "young_adult/027.jpg"
+  },
+  {
+    "title": "Blue Willow",
+    "genre": "young adult",
+    "filename": "young_adult/028.jpg"
+  },
+  {
+    "title": "Crooked Kingdom",
+    "genre": "young adult",
+    "filename": "young_adult/029.jpg"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "genre": "young adult",
+    "filename": "young_adult/030.jpg"
+  },
+  {
+    "title": "Lost in the Barrens - Collector's Edition",
+    "genre": "young adult",
+    "filename": "young_adult/031.jpg"
+  },
+  {
+    "title": "Over to You - Ten Stories of Flyers and Flying",
+    "genre": "young adult",
+    "filename": "young_adult/032.jpg"
+  },
+  {
+    "title": "Steelheart",
+    "genre": "young adult",
+    "filename": "young_adult/033.jpg"
+  },
+  {
+    "title": "The Infinite Sea",
+    "genre": "young adult",
+    "filename": "young_adult/034.jpg"
+  },
+  {
+    "title": "Just Ella",
+    "genre": "young adult",
+    "filename": "young_adult/035.jpg"
+  },
+  {
+    "title": "Harlem beat",
+    "genre": "young adult",
+    "filename": "young_adult/036.jpg"
+  },
+  {
+    "title": "My Teacher Fried My Brains",
+    "genre": "young adult",
+    "filename": "young_adult/037.jpg"
+  },
+  {
+    "title": "The knife of never letting go",
+    "genre": "young adult",
+    "filename": "young_adult/038.jpg"
+  },
+  {
+    "title": "Can you sue your parents for malpractice?",
+    "genre": "young adult",
+    "filename": "young_adult/039.jpg"
+  },
+  {
+    "title": "Collected Short Stories [51 stories]",
+    "genre": "young adult",
+    "filename": "young_adult/040.jpg"
+  },
+  {
+    "title": "Reappearance of Rachel Price",
+    "genre": "young adult",
+    "filename": "young_adult/041.jpg"
+  },
+  {
+    "title": "Firekeeper's Daughter",
+    "genre": "young adult",
+    "filename": "young_adult/042.jpg"
+  },
+  {
+    "title": "Champion",
+    "genre": "young adult",
+    "filename": "young_adult/043.jpg"
+  },
+  {
+    "title": "The Merchant of Death (Pendragon #1)",
+    "genre": "young adult",
+    "filename": "young_adult/044.jpg"
+  },
+  {
+    "title": "Tom Swift and his Sky Racer",
+    "genre": "young adult",
+    "filename": "young_adult/045.jpg"
+  },
+  {
+    "title": "My First Love and Other Disasters",
+    "genre": "young adult",
+    "filename": "young_adult/046.jpg"
+  },
+  {
+    "title": "Punk 57",
+    "genre": "young adult",
+    "filename": "young_adult/047.jpg"
+  },
+  {
+    "title": "The Sun and the Star",
+    "genre": "young adult",
+    "filename": "young_adult/048.jpg"
+  },
+  {
+    "title": "Midnight Sun",
+    "genre": "young adult",
+    "filename": "young_adult/049.jpg"
+  },
+  {
+    "title": "Hold Fast",
+    "genre": "young adult",
+    "filename": "young_adult/050.jpg"
+  },
+  {
+    "title": "Hurricane Wars",
+    "genre": "young adult",
+    "filename": "young_adult/051.jpg"
+  },
+  {
+    "title": "I'll Give You the Sun",
+    "genre": "young adult",
+    "filename": "young_adult/052.jpg"
+  },
+  {
+    "title": "Landscape with Invisible Hand",
+    "genre": "young adult",
+    "filename": "young_adult/053.jpg"
+  },
+  {
+    "title": "Final Strife",
+    "genre": "young adult",
+    "filename": "young_adult/054.jpg"
+  },
+  {
+    "title": "The Gentleman's Guide to Vice and Virtue",
+    "genre": "young adult",
+    "filename": "young_adult/055.jpg"
+  },
+  {
+    "title": "The Madness Underneath",
+    "genre": "young adult",
+    "filename": "young_adult/056.jpg"
+  },
+  {
+    "title": "Instant Karma",
+    "genre": "young adult",
+    "filename": "young_adult/057.jpg"
+  },
+  {
+    "title": "Intertwined",
+    "genre": "young adult",
+    "filename": "young_adult/058.jpg"
+  },
+  {
+    "title": "The Beggar Queen (Firebird)",
+    "genre": "young adult",
+    "filename": "young_adult/059.jpg"
+  },
+  {
+    "title": "Icebreaker",
+    "genre": "young adult",
+    "filename": "young_adult/060.jpg"
+  },
+  {
+    "title": "Blaine's Way",
+    "genre": "young adult",
+    "filename": "young_adult/061.jpg"
+  },
+  {
+    "title": "Edgedancer",
+    "genre": "young adult",
+    "filename": "young_adult/062.jpg"
+  },
+  {
+    "title": "Family Reunion",
+    "genre": "young adult",
+    "filename": "young_adult/063.jpg"
+  },
+  {
+    "title": "Novels (Great Expectations / Oliver Twist / Tale of Two Cities)",
+    "genre": "young adult",
+    "filename": "young_adult/064.jpg"
+  },
+  {
+    "title": "I Will Plant You a Lilac Tree",
+    "genre": "young adult",
+    "filename": "young_adult/065.jpg"
+  },
+  {
+    "title": "You've Reached Sam",
+    "genre": "young adult",
+    "filename": "young_adult/066.jpg"
+  },
+  {
+    "title": "The Bronzed Beasts",
+    "genre": "young adult",
+    "filename": "young_adult/067.jpg"
+  },
+  {
+    "title": "Nick and Charlie",
+    "genre": "young adult",
+    "filename": "young_adult/068.jpg"
+  },
+  {
+    "title": "Gilded",
+    "genre": "young adult",
+    "filename": "young_adult/069.jpg"
+  },
+  {
+    "title": "Zoey plays games",
+    "genre": "young adult",
+    "filename": "young_adult/070.jpg"
+  },
+  {
+    "title": "Empowerment, Health Promotion and Young People",
+    "genre": "young adult",
+    "filename": "young_adult/071.jpg"
+  },
+  {
+    "title": "Heartstopper, Volume 4",
+    "genre": "young adult",
+    "filename": "young_adult/072.jpg"
+  },
+  {
+    "title": "Journey home",
+    "genre": "young adult",
+    "filename": "young_adult/073.jpg"
+  },
+  {
+    "title": "Each of Us a Desert",
+    "genre": "young adult",
+    "filename": "young_adult/074.jpg"
+  },
+  {
+    "title": "Cinderella Is Dead",
+    "genre": "young adult",
+    "filename": "young_adult/075.jpg"
+  },
+  {
+    "title": "Cursed",
+    "genre": "young adult",
+    "filename": "young_adult/076.jpg"
+  },
+  {
+    "title": "Nightmare Hall #1 Silent Scream",
+    "genre": "young adult",
+    "filename": "young_adult/077.jpg"
+  },
+  {
+    "title": "My Life as Alien Monster Bait (The Incredible Worlds of Wally McDoogle #2)",
+    "genre": "young adult",
+    "filename": "young_adult/078.jpg"
+  },
+  {
+    "title": "The Prince Commands",
+    "genre": "young adult",
+    "filename": "young_adult/079.jpg"
+  },
+  {
+    "title": "Nightmare Hall #4 The Wish",
+    "genre": "young adult",
+    "filename": "young_adult/080.jpg"
+  },
+  {
+    "title": "Growing through life",
+    "genre": "young adult",
+    "filename": "young_adult/081.jpg"
+  },
+  {
+    "title": "Letters from the inside",
+    "genre": "young adult",
+    "filename": "young_adult/082.jpg"
+  },
+  {
+    "title": "The Wood Queen (The Iron Witch Trilogy, Book 2)",
+    "genre": "young adult",
+    "filename": "young_adult/083.jpg"
+  },
+  {
+    "title": "Fatality",
+    "genre": "young adult",
+    "filename": "young_adult/084.jpg"
+  },
+  {
+    "title": "If he had been with me",
+    "genre": "young adult",
+    "filename": "young_adult/085.jpg"
+  },
+  {
+    "title": "Cognitive Behavioural Therapy for Adolescents and Young Adults",
+    "genre": "young adult",
+    "filename": "young_adult/086.jpg"
+  },
+  {
+    "title": "Young People and the Aesthetics of Health Promotion",
+    "genre": "young adult",
+    "filename": "young_adult/087.jpg"
+  },
+  {
+    "title": "Brazen",
+    "genre": "young adult",
+    "filename": "young_adult/088.jpg"
+  },
+  {
+    "title": "A Lesson in Vengeance",
+    "genre": "young adult",
+    "filename": "young_adult/089.jpg"
+  },
+  {
+    "title": "Young People and the Struggle for Participation",
+    "genre": "young adult",
+    "filename": "young_adult/090.jpg"
+  },
+  {
+    "title": "Finding Junie Kim",
+    "genre": "young adult",
+    "filename": "young_adult/091.jpg"
+  },
+  {
+    "title": "My Mother Got Married (and other disasters)",
+    "genre": "young adult",
+    "filename": "young_adult/092.jpg"
+  },
+  {
+    "title": "The Camerons",
+    "genre": "young adult",
+    "filename": "young_adult/093.jpg"
+  },
+  {
+    "title": "I Too Had a Love Story",
+    "genre": "young adult",
+    "filename": "young_adult/094.jpg"
+  },
+  {
+    "title": "Caribbean Cruising",
+    "genre": "young adult",
+    "filename": "young_adult/095.jpg"
+  },
+  {
+    "title": "Eight Stories Up",
+    "genre": "young adult",
+    "filename": "young_adult/096.jpg"
+  },
+  {
+    "title": "Flawless",
+    "genre": "young adult",
+    "filename": "young_adult/097.jpg"
+  },
+  {
+    "title": "Heat Wave",
+    "genre": "young adult",
+    "filename": "young_adult/098.jpg"
+  },
+  {
+    "title": "White Banners",
+    "genre": "young adult",
+    "filename": "young_adult/099.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "genre": "horror",
+    "filename": "horror/000.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "genre": "horror",
+    "filename": "horror/001.jpg"
+  },
+  {
+    "title": "Dracula",
+    "genre": "horror",
+    "filename": "horror/002.jpg"
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "genre": "horror",
+    "filename": "horror/003.jpg"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "genre": "horror",
+    "filename": "horror/004.jpg"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "genre": "horror",
+    "filename": "horror/005.jpg"
+  },
+  {
+    "title": "Herland",
+    "genre": "horror",
+    "filename": "horror/006.jpg"
+  },
+  {
+    "title": "Carmilla",
+    "genre": "horror",
+    "filename": "horror/007.jpg"
+  },
+  {
+    "title": "The Great God Pan",
+    "genre": "horror",
+    "filename": "horror/008.jpg"
+  },
+  {
+    "title": "Tales of Terror and Mystery",
+    "genre": "horror",
+    "filename": "horror/009.jpg"
+  },
+  {
+    "title": "Carrie",
+    "genre": "horror",
+    "filename": "horror/010.jpg"
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "genre": "horror",
+    "filename": "horror/011.jpg"
+  },
+  {
+    "title": "The Damned",
+    "genre": "horror",
+    "filename": "horror/012.jpg"
+  },
+  {
+    "title": "Misery",
+    "genre": "horror",
+    "filename": "horror/013.jpg"
+  },
+  {
+    "title": "The Shining",
+    "genre": "horror",
+    "filename": "horror/014.jpg"
+  },
+  {
+    "title": "It",
+    "genre": "horror",
+    "filename": "horror/015.jpg"
+  },
+  {
+    "title": "The Gunslinger",
+    "genre": "horror",
+    "filename": "horror/016.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "genre": "horror",
+    "filename": "horror/017.jpg"
+  },
+  {
+    "title": "Pet Sematary",
+    "genre": "horror",
+    "filename": "horror/018.jpg"
+  },
+  {
+    "title": "The Dead Zone",
+    "genre": "horror",
+    "filename": "horror/019.jpg"
+  },
+  {
+    "title": "The Stand",
+    "genre": "horror",
+    "filename": "horror/020.jpg"
+  },
+  {
+    "title": "Cujo",
+    "genre": "horror",
+    "filename": "horror/021.jpg"
+  },
+  {
+    "title": "The Exorcist",
+    "genre": "horror",
+    "filename": "horror/022.jpg"
+  },
+  {
+    "title": "Firestarter",
+    "genre": "horror",
+    "filename": "horror/023.jpg"
+  },
+  {
+    "title": "The Vampyre",
+    "genre": "horror",
+    "filename": "horror/024.jpg"
+  },
+  {
+    "title": "Skeleton crew",
+    "genre": "horror",
+    "filename": "horror/025.jpg"
+  },
+  {
+    "title": "The Haunted and the Haunters, Or, The House and the Brain",
+    "genre": "horror",
+    "filename": "horror/026.jpg"
+  },
+  {
+    "title": "Needful Things",
+    "genre": "horror",
+    "filename": "horror/027.jpg"
+  },
+  {
+    "title": "Night Shift",
+    "genre": "horror",
+    "filename": "horror/028.jpg"
+  },
+  {
+    "title": "The Eyes of the Dragon",
+    "genre": "horror",
+    "filename": "horror/029.jpg"
+  },
+  {
+    "title": "The talisman",
+    "genre": "horror",
+    "filename": "horror/030.jpg"
+  },
+  {
+    "title": "Four Past Midnight",
+    "genre": "horror",
+    "filename": "horror/031.jpg"
+  },
+  {
+    "title": "The Day of the Triffids",
+    "genre": "horror",
+    "filename": "horror/032.jpg"
+  },
+  {
+    "title": "Christine",
+    "genre": "horror",
+    "filename": "horror/033.jpg"
+  },
+  {
+    "title": "The Dark Half",
+    "genre": "horror",
+    "filename": "horror/034.jpg"
+  },
+  {
+    "title": "Cell",
+    "genre": "horror",
+    "filename": "horror/035.jpg"
+  },
+  {
+    "title": "Thinner",
+    "genre": "horror",
+    "filename": "horror/036.jpg"
+  },
+  {
+    "title": "Petals on the Wind",
+    "genre": "horror",
+    "filename": "horror/037.jpg"
+  },
+  {
+    "title": "Different Seasons",
+    "genre": "horror",
+    "filename": "horror/038.jpg"
+  },
+  {
+    "title": "Everything's Eventual. 14 Dark Tales",
+    "genre": "horror",
+    "filename": "horror/039.jpg"
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "genre": "horror",
+    "filename": "horror/040.jpg"
+  },
+  {
+    "title": "Insomnia",
+    "genre": "horror",
+    "filename": "horror/041.jpg"
+  },
+  {
+    "title": "Gerald's Game",
+    "genre": "horror",
+    "filename": "horror/042.jpg"
+  },
+  {
+    "title": "Rose Madder",
+    "genre": "horror",
+    "filename": "horror/043.jpg"
+  },
+  {
+    "title": "Hearts in Atlantis",
+    "genre": "horror",
+    "filename": "horror/044.jpg"
+  },
+  {
+    "title": "The Regulators",
+    "genre": "horror",
+    "filename": "horror/045.jpg"
+  },
+  {
+    "title": "Desperation",
+    "genre": "horror",
+    "filename": "horror/046.jpg"
+  },
+  {
+    "title": "The Queen of the Damned",
+    "genre": "horror",
+    "filename": "horror/047.jpg"
+  },
+  {
+    "title": "From a Buick 8",
+    "genre": "horror",
+    "filename": "horror/048.jpg"
+  },
+  {
+    "title": "Lisey's Story",
+    "genre": "horror",
+    "filename": "horror/049.jpg"
+  },
+  {
+    "title": "If There Be Thorns",
+    "genre": "horror",
+    "filename": "horror/050.jpg"
+  },
+  {
+    "title": "Can Such Things Be? [24 stories]",
+    "genre": "horror",
+    "filename": "horror/051.jpg"
+  },
+  {
+    "title": "The Works of Edgar Allan Poe in Five Volumes",
+    "genre": "horror",
+    "filename": "horror/052.jpg"
+  },
+  {
+    "title": "Dolores Claiborne",
+    "genre": "horror",
+    "filename": "horror/053.jpg"
+  },
+  {
+    "title": "The Human Chord",
+    "genre": "horror",
+    "filename": "horror/054.jpg"
+  },
+  {
+    "title": "Danse Macabre",
+    "genre": "horror",
+    "filename": "horror/055.jpg"
+  },
+  {
+    "title": "The Passage",
+    "genre": "horror",
+    "filename": "horror/056.jpg"
+  },
+  {
+    "title": "Mr. Mercedes",
+    "genre": "horror",
+    "filename": "horror/057.jpg"
+  },
+  {
+    "title": "The House on the Borderland",
+    "genre": "horror",
+    "filename": "horror/058.jpg"
+  },
+  {
+    "title": "Great Short Stories of the World -- a collection of complete short stories chosen from the literatures of all periods and countries",
+    "genre": "horror",
+    "filename": "horror/059.jpg"
+  },
+  {
+    "title": "The return",
+    "genre": "horror",
+    "filename": "horror/060.jpg"
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "genre": "horror",
+    "filename": "horror/061.jpg"
+  },
+  {
+    "title": "In a glass darkly",
+    "genre": "horror",
+    "filename": "horror/062.jpg"
+  },
+  {
+    "title": "The Graveyard Book",
+    "genre": "horror",
+    "filename": "horror/063.jpg"
+  },
+  {
+    "title": "Full Dark, No Stars",
+    "genre": "horror",
+    "filename": "horror/064.jpg"
+  },
+  {
+    "title": "Welcome to Dead House",
+    "genre": "horror",
+    "filename": "horror/065.jpg"
+  },
+  {
+    "title": "Nightmares & Dreamscapes",
+    "genre": "horror",
+    "filename": "horror/066.jpg"
+  },
+  {
+    "title": "Just After Sunset",
+    "genre": "horror",
+    "filename": "horror/067.jpg"
+  },
+  {
+    "title": "Fallen Hearts",
+    "genre": "horror",
+    "filename": "horror/068.jpg"
+  },
+  {
+    "title": "Lasher",
+    "genre": "horror",
+    "filename": "horror/069.jpg"
+  },
+  {
+    "title": "My Sweet Audrina",
+    "genre": "horror",
+    "filename": "horror/070.jpg"
+  },
+  {
+    "title": "The Voice of the Night",
+    "genre": "horror",
+    "filename": "horror/071.jpg"
+  },
+  {
+    "title": "The Long Walk",
+    "genre": "horror",
+    "filename": "horror/072.jpg"
+  },
+  {
+    "title": "The Masque of the Red Death",
+    "genre": "horror",
+    "filename": "horror/073.jpg"
+  },
+  {
+    "title": "Darkness Comes",
+    "genre": "horror",
+    "filename": "horror/074.jpg"
+  },
+  {
+    "title": "Blood and Gold",
+    "genre": "horror",
+    "filename": "horror/075.jpg"
+  },
+  {
+    "title": "Roadwork",
+    "genre": "horror",
+    "filename": "horror/076.jpg"
+  },
+  {
+    "title": "Skulduggery Pleasant",
+    "genre": "horror",
+    "filename": "horror/077.jpg"
+  },
+  {
+    "title": "Blackwood Farm",
+    "genre": "horror",
+    "filename": "horror/078.jpg"
+  },
+  {
+    "title": "The Ghost Next Door",
+    "genre": "horror",
+    "filename": "horror/079.jpg"
+  },
+  {
+    "title": "The Institute",
+    "genre": "horror",
+    "filename": "horror/080.jpg"
+  },
+  {
+    "title": "The Damned Thing",
+    "genre": "horror",
+    "filename": "horror/081.jpg"
+  },
+  {
+    "title": "Cycle of the Werewolf",
+    "genre": "horror",
+    "filename": "horror/082.jpg"
+  },
+  {
+    "title": "Fright Night",
+    "genre": "horror",
+    "filename": "horror/083.jpg"
+  },
+  {
+    "title": "Revival",
+    "genre": "horror",
+    "filename": "horror/084.jpg"
+  },
+  {
+    "title": "Present at a Hanging and Other Ghost Stories",
+    "genre": "horror",
+    "filename": "horror/085.jpg"
+  },
+  {
+    "title": "The Spook's Curse",
+    "genre": "horror",
+    "filename": "horror/086.jpg"
+  },
+  {
+    "title": "Tales of Mystery and Imagination [29 stories]",
+    "genre": "horror",
+    "filename": "horror/087.jpg"
+  },
+  {
+    "title": "Night Chills",
+    "genre": "horror",
+    "filename": "horror/088.jpg"
+  },
+  {
+    "title": "Demon Seed",
+    "genre": "horror",
+    "filename": "horror/089.jpg"
+  },
+  {
+    "title": "Wings in the Night",
+    "genre": "horror",
+    "filename": "horror/090.jpg"
+  },
+  {
+    "title": "Histoires Extraordinaires (Balloon-Hoax / Descent into the Maelstrom / Facts in the Case of M. Valdemar / Gold-Bug / Ligeia / Mesmeric Revelation / Metzengerstein / Morella / MS. Found in a Bottle / Murders in the Rue Morgue / Purloined Letter / Tale of the Ragged Mountains / Unparalleled Adventure of One Hans Pfaall)",
+    "genre": "horror",
+    "filename": "horror/091.jpg"
+  },
+  {
+    "title": "Goosebumps - Deep Trouble",
+    "genre": "horror",
+    "filename": "horror/092.jpg"
+  },
+  {
+    "title": "Twilight's Child",
+    "genre": "horror",
+    "filename": "horror/093.jpg"
+  },
+  {
+    "title": "Someone Like You [18 stories]",
+    "genre": "horror",
+    "filename": "horror/094.jpg"
+  },
+  {
+    "title": "Scary stories to tell in the dark",
+    "genre": "horror",
+    "filename": "horror/095.jpg"
+  },
+  {
+    "title": "More Scary Stories to Tell in the Dark",
+    "genre": "horror",
+    "filename": "horror/096.jpg"
+  },
+  {
+    "title": "The Tell-Tale Heart",
+    "genre": "horror",
+    "filename": "horror/097.jpg"
+  },
+  {
+    "title": "The Terror",
+    "genre": "horror",
+    "filename": "horror/098.jpg"
+  },
+  {
+    "title": "A thin ghost and others",
+    "genre": "horror",
+    "filename": "horror/099.jpg"
+  },
+  {
+    "title": "Bible",
+    "genre": "biography",
+    "filename": "biography/000.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "genre": "biography",
+    "filename": "biography/001.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "genre": "biography",
+    "filename": "biography/002.jpg"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "genre": "biography",
+    "filename": "biography/003.jpg"
+  },
+  {
+    "title": "Narrative of the life of Frederick Douglass",
+    "genre": "biography",
+    "filename": "biography/004.jpg"
+  },
+  {
+    "title": "Twelve years a slave",
+    "genre": "biography",
+    "filename": "biography/005.jpg"
+  },
+  {
+    "title": "Captains Courageous",
+    "genre": "biography",
+    "filename": "biography/006.jpg"
+  },
+  {
+    "title": "The Canterbury Tales",
+    "genre": "biography",
+    "filename": "biography/007.jpg"
+  },
+  {
+    "title": "Leaves of Grass",
+    "genre": "biography",
+    "filename": "biography/008.jpg"
+  },
+  {
+    "title": "Julius Caesar",
+    "genre": "biography",
+    "filename": "biography/009.jpg"
+  },
+  {
+    "title": "Dubliners",
+    "genre": "biography",
+    "filename": "biography/010.jpg"
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "genre": "biography",
+    "filename": "biography/011.jpg"
+  },
+  {
+    "title": "Autobiography",
+    "genre": "biography",
+    "filename": "biography/012.jpg"
+  },
+  {
+    "title": "The Second Jungle Book",
+    "genre": "biography",
+    "filename": "biography/013.jpg"
+  },
+  {
+    "title": "Sonnets",
+    "genre": "biography",
+    "filename": "biography/014.jpg"
+  },
+  {
+    "title": "The Tenant of Wildfell Hall",
+    "genre": "biography",
+    "filename": "biography/015.jpg"
+  },
+  {
+    "title": "Ab urbe condita",
+    "genre": "biography",
+    "filename": "biography/016.jpg"
+  },
+  {
+    "title": "The Jungle Book",
+    "genre": "biography",
+    "filename": "biography/017.jpg"
+  },
+  {
+    "title": "King Henry V",
+    "genre": "biography",
+    "filename": "biography/018.jpg"
+  },
+  {
+    "title": "My bondage and my freedom",
+    "genre": "biography",
+    "filename": "biography/019.jpg"
+  },
+  {
+    "title": "Walden",
+    "genre": "biography",
+    "filename": "biography/020.jpg"
+  },
+  {
+    "title": "A history of New York",
+    "genre": "biography",
+    "filename": "biography/021.jpg"
+  },
+  {
+    "title": "The  man who would be king",
+    "genre": "biography",
+    "filename": "biography/022.jpg"
+  },
+  {
+    "title": "Manifest der Kommunistischen Partei",
+    "genre": "biography",
+    "filename": "biography/023.jpg"
+  },
+  {
+    "title": "Confessions",
+    "genre": "biography",
+    "filename": "biography/024.jpg"
+  },
+  {
+    "title": "Up from Slavery",
+    "genre": "biography",
+    "filename": "biography/025.jpg"
+  },
+  {
+    "title": "Roughing It",
+    "genre": "biography",
+    "filename": "biography/026.jpg"
+  },
+  {
+    "title": "Paradise Lost",
+    "genre": "biography",
+    "filename": "biography/027.jpg"
+  },
+  {
+    "title": "Incidents in the life of a slave girl",
+    "genre": "biography",
+    "filename": "biography/028.jpg"
+  },
+  {
+    "title": "Les fleurs du mal",
+    "genre": "biography",
+    "filename": "biography/029.jpg"
+  },
+  {
+    "title": "Lord Jim",
+    "genre": "biography",
+    "filename": "biography/030.jpg"
+  },
+  {
+    "title": "Two years before the mast",
+    "genre": "biography",
+    "filename": "biography/031.jpg"
+  },
+  {
+    "title": "Lives",
+    "genre": "biography",
+    "filename": "biography/032.jpg"
+  },
+  {
+    "title": "Saint Francis of Assisi",
+    "genre": "biography",
+    "filename": "biography/033.jpg"
+  },
+  {
+    "title": "The life of Olaudah Equiano, or Gustavus Vassa, the African",
+    "genre": "biography",
+    "filename": "biography/034.jpg"
+  },
+  {
+    "title": "Sailing alone around the world",
+    "genre": "biography",
+    "filename": "biography/035.jpg"
+  },
+  {
+    "title": "The complete poetical works",
+    "genre": "biography",
+    "filename": "biography/036.jpg"
+  },
+  {
+    "title": "The Magician",
+    "genre": "biography",
+    "filename": "biography/037.jpg"
+  },
+  {
+    "title": "Het Achterhuis",
+    "genre": "biography",
+    "filename": "biography/038.jpg"
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "genre": "biography",
+    "filename": "biography/039.jpg"
+  },
+  {
+    "title": "Acres of diamonds",
+    "genre": "biography",
+    "filename": "biography/040.jpg"
+  },
+  {
+    "title": "Erewhon",
+    "genre": "biography",
+    "filename": "biography/041.jpg"
+  },
+  {
+    "title": "Maria; or, The Wrongs of Woman",
+    "genre": "biography",
+    "filename": "biography/042.jpg"
+  },
+  {
+    "title": "Plays (36)",
+    "genre": "biography",
+    "filename": "biography/043.jpg"
+  },
+  {
+    "title": "\u1f08\u03bd\u03ac\u03b2\u03b1\u03c3\u03b9\u03c2",
+    "genre": "biography",
+    "filename": "biography/044.jpg"
+  },
+  {
+    "title": "Captivity and Restoration",
+    "genre": "biography",
+    "filename": "biography/045.jpg"
+  },
+  {
+    "title": "The Library of American Biography",
+    "genre": "biography",
+    "filename": "biography/046.jpg"
+  },
+  {
+    "title": "Les confessions",
+    "genre": "biography",
+    "filename": "biography/047.jpg"
+  },
+  {
+    "title": "Picasso",
+    "genre": "biography",
+    "filename": "biography/048.jpg"
+  },
+  {
+    "title": "Life of Samuel Johnson",
+    "genre": "biography",
+    "filename": "biography/049.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "biography",
+    "filename": "biography/050.jpg"
+  },
+  {
+    "title": "The Rise of Silas Lapham",
+    "genre": "biography",
+    "filename": "biography/051.jpg"
+  },
+  {
+    "title": "The History of Rasselas, Prince of Abyssinia",
+    "genre": "biography",
+    "filename": "biography/052.jpg"
+  },
+  {
+    "title": "Works [37 plays, 6 poems, sonnets]",
+    "genre": "biography",
+    "filename": "biography/053.jpg"
+  },
+  {
+    "title": "Moralia",
+    "genre": "biography",
+    "filename": "biography/054.jpg"
+  },
+  {
+    "title": "\u041c\u044b",
+    "genre": "biography",
+    "filename": "biography/055.jpg"
+  },
+  {
+    "title": "Flush",
+    "genre": "biography",
+    "filename": "biography/056.jpg"
+  },
+  {
+    "title": "Apologia pro vita sua",
+    "genre": "biography",
+    "filename": "biography/057.jpg"
+  },
+  {
+    "title": "Ben Hur",
+    "genre": "biography",
+    "filename": "biography/058.jpg"
+  },
+  {
+    "title": "Poems by John Keats",
+    "genre": "biography",
+    "filename": "biography/059.jpg"
+  },
+  {
+    "title": "Typee",
+    "genre": "biography",
+    "filename": "biography/060.jpg"
+  },
+  {
+    "title": "A Tramp Abroad",
+    "genre": "biography",
+    "filename": "biography/061.jpg"
+  },
+  {
+    "title": "The Man Without a Country",
+    "genre": "biography",
+    "filename": "biography/062.jpg"
+  },
+  {
+    "title": "Mein Kampf",
+    "genre": "biography",
+    "filename": "biography/063.jpg"
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "genre": "biography",
+    "filename": "biography/064.jpg"
+  },
+  {
+    "title": "American notes",
+    "genre": "biography",
+    "filename": "biography/065.jpg"
+  },
+  {
+    "title": "The education of Henry Adams",
+    "genre": "biography",
+    "filename": "biography/066.jpg"
+  },
+  {
+    "title": "Hospital Sketches",
+    "genre": "biography",
+    "filename": "biography/067.jpg"
+  },
+  {
+    "title": "My life and work",
+    "genre": "biography",
+    "filename": "biography/068.jpg"
+  },
+  {
+    "title": "Diary",
+    "genre": "biography",
+    "filename": "biography/069.jpg"
+  },
+  {
+    "title": "Das Schlo\u00df",
+    "genre": "biography",
+    "filename": "biography/070.jpg"
+  },
+  {
+    "title": "Mademoiselle Fifi",
+    "genre": "biography",
+    "filename": "biography/071.jpg"
+  },
+  {
+    "title": "The Hudson Bay Company",
+    "genre": "biography",
+    "filename": "biography/072.jpg"
+  },
+  {
+    "title": "Life on the Mississippi",
+    "genre": "biography",
+    "filename": "biography/073.jpg"
+  },
+  {
+    "title": "Kokuritsu Kokkai Toshokan shoz\u014d Meijiki kank\u014d tosho maikuro-ban sh\u016bsei",
+    "genre": "biography",
+    "filename": "biography/074.jpg"
+  },
+  {
+    "title": "Paul Klee",
+    "genre": "biography",
+    "filename": "biography/075.jpg"
+  },
+  {
+    "title": "Henry Moore",
+    "genre": "biography",
+    "filename": "biography/076.jpg"
+  },
+  {
+    "title": "The adventures of Captain Bonneville, U.S.A.",
+    "genre": "biography",
+    "filename": "biography/077.jpg"
+  },
+  {
+    "title": "Exercitia spiritualia",
+    "genre": "biography",
+    "filename": "biography/078.jpg"
+  },
+  {
+    "title": "Dei delitte e delle pene",
+    "genre": "biography",
+    "filename": "biography/079.jpg"
+  },
+  {
+    "title": "Paul et Virginie",
+    "genre": "biography",
+    "filename": "biography/080.jpg"
+  },
+  {
+    "title": "Elizabeth and Her German Garden",
+    "genre": "biography",
+    "filename": "biography/081.jpg"
+  },
+  {
+    "title": "An autobiography",
+    "genre": "biography",
+    "filename": "biography/082.jpg"
+  },
+  {
+    "title": "History of Alexander the Great",
+    "genre": "biography",
+    "filename": "biography/083.jpg"
+  },
+  {
+    "title": "Oliver Goldsmith",
+    "genre": "biography",
+    "filename": "biography/084.jpg"
+  },
+  {
+    "title": "A Mind That Found Itself",
+    "genre": "biography",
+    "filename": "biography/085.jpg"
+  },
+  {
+    "title": "De officiis",
+    "genre": "biography",
+    "filename": "biography/086.jpg"
+  },
+  {
+    "title": "Bambi (First Colouring Tall)",
+    "genre": "biography",
+    "filename": "biography/087.jpg"
+  },
+  {
+    "title": "Margaret Ogilvy, and others",
+    "genre": "biography",
+    "filename": "biography/088.jpg"
+  },
+  {
+    "title": "Houghton Mifflin the Nation's Choice",
+    "genre": "biography",
+    "filename": "biography/089.jpg"
+  },
+  {
+    "title": "The lives of the XII. C\u00e6sars",
+    "genre": "biography",
+    "filename": "biography/090.jpg"
+  },
+  {
+    "title": "Adolphe",
+    "genre": "biography",
+    "filename": "biography/091.jpg"
+  },
+  {
+    "title": "\u0395\u1f50\u03b8\u03cd\u03c6\u03c1\u03c9\u03bd / \u039a\u03c1\u03af\u03c4\u03c9\u03bd / \u03a6\u03b1\u03af\u03b4\u03c9\u03bd / \u1f08\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2",
+    "genre": "biography",
+    "filename": "biography/092.jpg"
+  },
+  {
+    "title": "The Life of Charlotte Bronte",
+    "genre": "biography",
+    "filename": "biography/093.jpg"
+  },
+  {
+    "title": "Seven pillars of wisdom, a triumph",
+    "genre": "biography",
+    "filename": "biography/094.jpg"
+  },
+  {
+    "title": "The Second World War",
+    "genre": "biography",
+    "filename": "biography/095.jpg"
+  },
+  {
+    "title": "Dictionary of National Biography",
+    "genre": "biography",
+    "filename": "biography/096.jpg"
+  },
+  {
+    "title": "Cyropaedia",
+    "genre": "biography",
+    "filename": "biography/097.jpg"
+  },
+  {
+    "title": "Grace abounding to the chief of sinners",
+    "genre": "biography",
+    "filename": "biography/098.jpg"
+  },
+  {
+    "title": "Their Wedding Journey",
+    "genre": "biography",
+    "filename": "biography/099.jpg"
+  },
+  {
+    "title": "The Power of Focused Thinking",
+    "genre": "self help",
+    "filename": "self_help/000.jpg"
+  },
+  {
+    "title": "The Secret",
+    "genre": "self help",
+    "filename": "self_help/001.jpg"
+  },
+  {
+    "title": "God and the evolving universe",
+    "genre": "self help",
+    "filename": "self_help/002.jpg"
+  },
+  {
+    "title": "Girlosophy",
+    "genre": "self help",
+    "filename": "self_help/003.jpg"
+  },
+  {
+    "title": "How to pass exams",
+    "genre": "self help",
+    "filename": "self_help/004.jpg"
+  },
+  {
+    "title": "Yesterday I Cried",
+    "genre": "self help",
+    "filename": "self_help/005.jpg"
+  },
+  {
+    "title": "The Twelfth Insight",
+    "genre": "self help",
+    "filename": "self_help/006.jpg"
+  },
+  {
+    "title": "Feeding the Hungry Heart",
+    "genre": "self help",
+    "filename": "self_help/007.jpg"
+  },
+  {
+    "title": "Como Crear Mapas Mentales",
+    "genre": "self help",
+    "filename": "self_help/008.jpg"
+  },
+  {
+    "title": "The personal efficiency program",
+    "genre": "self help",
+    "filename": "self_help/009.jpg"
+  },
+  {
+    "title": "Rewriting the Rules",
+    "genre": "self help",
+    "filename": "self_help/010.jpg"
+  },
+  {
+    "title": "Coolmind",
+    "genre": "self help",
+    "filename": "self_help/011.jpg"
+  },
+  {
+    "title": "Intuition",
+    "genre": "self help",
+    "filename": "self_help/012.jpg"
+  },
+  {
+    "title": "The Perricone Promise",
+    "genre": "self help",
+    "filename": "self_help/013.jpg"
+  },
+  {
+    "title": "The language of letting go",
+    "genre": "self help",
+    "filename": "self_help/014.jpg"
+  },
+  {
+    "title": "The Pursuit of Happiness",
+    "genre": "self help",
+    "filename": "self_help/015.jpg"
+  },
+  {
+    "title": "The Road to Wealth",
+    "genre": "self help",
+    "filename": "self_help/016.jpg"
+  },
+  {
+    "title": "You can heal your life",
+    "genre": "self help",
+    "filename": "self_help/017.jpg"
+  },
+  {
+    "title": "Growing Yourself Up",
+    "genre": "self help",
+    "filename": "self_help/018.jpg"
+  },
+  {
+    "title": "Real Magic",
+    "genre": "self help",
+    "filename": "self_help/019.jpg"
+  },
+  {
+    "title": "RealAge",
+    "genre": "self help",
+    "filename": "self_help/020.jpg"
+  },
+  {
+    "title": "Novel Cure",
+    "genre": "self help",
+    "filename": "self_help/021.jpg"
+  },
+  {
+    "title": "Mindfulness for Life",
+    "genre": "self help",
+    "filename": "self_help/022.jpg"
+  },
+  {
+    "title": "Unfuck your brain",
+    "genre": "self help",
+    "filename": "self_help/023.jpg"
+  },
+  {
+    "title": "The wish",
+    "genre": "self help",
+    "filename": "self_help/024.jpg"
+  },
+  {
+    "title": "Life and Beyond",
+    "genre": "self help",
+    "filename": "self_help/025.jpg"
+  },
+  {
+    "title": "A Whole New Mind",
+    "genre": "self help",
+    "filename": "self_help/026.jpg"
+  },
+  {
+    "title": "HELP! I'm Living with a (Man) Boy",
+    "genre": "self help",
+    "filename": "self_help/027.jpg"
+  },
+  {
+    "title": "Make this your lucky day",
+    "genre": "self help",
+    "filename": "self_help/028.jpg"
+  },
+  {
+    "title": "Creative Seed",
+    "genre": "self help",
+    "filename": "self_help/029.jpg"
+  },
+  {
+    "title": "You Are Inspired",
+    "genre": "self help",
+    "filename": "self_help/030.jpg"
+  },
+  {
+    "title": "When Happiness Is Not Enough",
+    "genre": "self help",
+    "filename": "self_help/031.jpg"
+  },
+  {
+    "title": "Take Control of Your Life",
+    "genre": "self help",
+    "filename": "self_help/032.jpg"
+  },
+  {
+    "title": "Synchrodestiny",
+    "genre": "self help",
+    "filename": "self_help/033.jpg"
+  },
+  {
+    "title": "Flatter your figure",
+    "genre": "self help",
+    "filename": "self_help/034.jpg"
+  },
+  {
+    "title": "Staying On The Path",
+    "genre": "self help",
+    "filename": "self_help/035.jpg"
+  },
+  {
+    "title": "Outwitting the devil",
+    "genre": "self help",
+    "filename": "self_help/036.jpg"
+  },
+  {
+    "title": "Making it happen",
+    "genre": "self help",
+    "filename": "self_help/037.jpg"
+  },
+  {
+    "title": "Messages from Your Angels",
+    "genre": "self help",
+    "filename": "self_help/038.jpg"
+  },
+  {
+    "title": "Women are crazy, men are stupid",
+    "genre": "self help",
+    "filename": "self_help/039.jpg"
+  },
+  {
+    "title": "Art of Insight",
+    "genre": "self help",
+    "filename": "self_help/040.jpg"
+  },
+  {
+    "title": "Happiness Trap Pocketbook",
+    "genre": "self help",
+    "filename": "self_help/041.jpg"
+  },
+  {
+    "title": "Mindful Learning",
+    "genre": "self help",
+    "filename": "self_help/042.jpg"
+  },
+  {
+    "title": "Mum Who Roared",
+    "genre": "self help",
+    "filename": "self_help/043.jpg"
+  },
+  {
+    "title": "Who Stole My Mojo?",
+    "genre": "self help",
+    "filename": "self_help/044.jpg"
+  },
+  {
+    "title": "Surviving Your Serengeti",
+    "genre": "self help",
+    "filename": "self_help/045.jpg"
+  },
+  {
+    "title": "Personality Plus",
+    "genre": "self help",
+    "filename": "self_help/046.jpg"
+  },
+  {
+    "title": "A new guide to rational living",
+    "genre": "self help",
+    "filename": "self_help/047.jpg"
+  },
+  {
+    "title": "Relationships That Rock!",
+    "genre": "self help",
+    "filename": "self_help/048.jpg"
+  },
+  {
+    "title": "Life And How To Survive It",
+    "genre": "self help",
+    "filename": "self_help/049.jpg"
+  },
+  {
+    "title": "The power of full engagement",
+    "genre": "self help",
+    "filename": "self_help/050.jpg"
+  },
+  {
+    "title": "In Stillness Conquer Fear",
+    "genre": "self help",
+    "filename": "self_help/051.jpg"
+  },
+  {
+    "title": "What Are You Waiting For?",
+    "genre": "self help",
+    "filename": "self_help/052.jpg"
+  },
+  {
+    "title": "Power of the Second Question",
+    "genre": "self help",
+    "filename": "self_help/053.jpg"
+  },
+  {
+    "title": "Invisible wounds",
+    "genre": "self help",
+    "filename": "self_help/054.jpg"
+  },
+  {
+    "title": "Living With It",
+    "genre": "self help",
+    "filename": "self_help/055.jpg"
+  },
+  {
+    "title": "Running over a Chinaman",
+    "genre": "self help",
+    "filename": "self_help/056.jpg"
+  },
+  {
+    "title": "The Secret Language of Destiny",
+    "genre": "self help",
+    "filename": "self_help/057.jpg"
+  },
+  {
+    "title": "C\u00f3mo no escribir una novela",
+    "genre": "self help",
+    "filename": "self_help/058.jpg"
+  },
+  {
+    "title": "Don't Panic",
+    "genre": "self help",
+    "filename": "self_help/059.jpg"
+  },
+  {
+    "title": "Forgiveness and other acts of love",
+    "genre": "self help",
+    "filename": "self_help/060.jpg"
+  },
+  {
+    "title": "Organise Your Family",
+    "genre": "self help",
+    "filename": "self_help/061.jpg"
+  },
+  {
+    "title": "Four Green Houses and a Red Hotel",
+    "genre": "self help",
+    "filename": "self_help/062.jpg"
+  },
+  {
+    "title": "Does This Clutter Make My Butt Look Fat?",
+    "genre": "self help",
+    "filename": "self_help/063.jpg"
+  },
+  {
+    "title": "How to Balance Your Life",
+    "genre": "self help",
+    "filename": "self_help/064.jpg"
+  },
+  {
+    "title": "Communication essentials for dummies",
+    "genre": "self help",
+    "filename": "self_help/065.jpg"
+  },
+  {
+    "title": "No Excuses Guide to Uncovering Your Purpose",
+    "genre": "self help",
+    "filename": "self_help/066.jpg"
+  },
+  {
+    "title": "Map of the Soul",
+    "genre": "self help",
+    "filename": "self_help/067.jpg"
+  },
+  {
+    "title": "Happiness Trap",
+    "genre": "self help",
+    "filename": "self_help/068.jpg"
+  },
+  {
+    "title": "Hot Sex",
+    "genre": "self help",
+    "filename": "self_help/069.jpg"
+  },
+  {
+    "title": "We neurotics",
+    "genre": "self help",
+    "filename": "self_help/070.jpg"
+  },
+  {
+    "title": "The Great Life Redesign",
+    "genre": "self help",
+    "filename": "self_help/071.jpg"
+  },
+  {
+    "title": "When I loved myself enough",
+    "genre": "self help",
+    "filename": "self_help/072.jpg"
+  },
+  {
+    "title": "Gandhi CEO",
+    "genre": "self help",
+    "filename": "self_help/073.jpg"
+  },
+  {
+    "title": "Buddhism for Busy People",
+    "genre": "self help",
+    "filename": "self_help/074.jpg"
+  },
+  {
+    "title": "Life Was Never Meant To Be A Struggle",
+    "genre": "self help",
+    "filename": "self_help/075.jpg"
+  },
+  {
+    "title": "The power of nice",
+    "genre": "self help",
+    "filename": "self_help/076.jpg"
+  },
+  {
+    "title": "The $1 million reason to change your mind",
+    "genre": "self help",
+    "filename": "self_help/077.jpg"
+  },
+  {
+    "title": "Leaving the enchanted forest",
+    "genre": "self help",
+    "filename": "self_help/078.jpg"
+  },
+  {
+    "title": "Polywise",
+    "genre": "self help",
+    "filename": "self_help/079.jpg"
+  },
+  {
+    "title": "Dog Wisdom",
+    "genre": "self help",
+    "filename": "self_help/080.jpg"
+  },
+  {
+    "title": "When you lose a loved one",
+    "genre": "self help",
+    "filename": "self_help/081.jpg"
+  },
+  {
+    "title": "Quest for Life",
+    "genre": "self help",
+    "filename": "self_help/082.jpg"
+  },
+  {
+    "title": "The Circles",
+    "genre": "self help",
+    "filename": "self_help/083.jpg"
+  },
+  {
+    "title": "Today I Will",
+    "genre": "self help",
+    "filename": "self_help/084.jpg"
+  },
+  {
+    "title": "Breaking Free from Compulsive Eating",
+    "genre": "self help",
+    "filename": "self_help/085.jpg"
+  },
+  {
+    "title": "Happiness Code",
+    "genre": "self help",
+    "filename": "self_help/086.jpg"
+  },
+  {
+    "title": "Leadership 101",
+    "genre": "self help",
+    "filename": "self_help/087.jpg"
+  },
+  {
+    "title": "Hot Lemon and Honey",
+    "genre": "self help",
+    "filename": "self_help/088.jpg"
+  },
+  {
+    "title": "Choose to Be Happy",
+    "genre": "self help",
+    "filename": "self_help/089.jpg"
+  },
+  {
+    "title": "People skills",
+    "genre": "self help",
+    "filename": "self_help/090.jpg"
+  },
+  {
+    "title": "Secrets & Mysteries of the World",
+    "genre": "self help",
+    "filename": "self_help/091.jpg"
+  },
+  {
+    "title": "Buddhism for mothers",
+    "genre": "self help",
+    "filename": "self_help/092.jpg"
+  },
+  {
+    "title": "Better Life",
+    "genre": "self help",
+    "filename": "self_help/093.jpg"
+  },
+  {
+    "title": "Screw Inner Beauty",
+    "genre": "self help",
+    "filename": "self_help/094.jpg"
+  },
+  {
+    "title": "Authentic happiness",
+    "genre": "self help",
+    "filename": "self_help/095.jpg"
+  },
+  {
+    "title": "Follow Your Heart",
+    "genre": "self help",
+    "filename": "self_help/096.jpg"
+  },
+  {
+    "title": "New Age Nanas",
+    "genre": "self help",
+    "filename": "self_help/097.jpg"
+  },
+  {
+    "title": "Frog and the Well",
+    "genre": "self help",
+    "filename": "self_help/098.jpg"
+  },
+  {
+    "title": "Find Your Feet (the 8 Things I Wish I'D Known Before I Left High School)",
+    "genre": "self help",
+    "filename": "self_help/099.jpg"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "genre": "travel",
+    "filename": "travel/000.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "genre": "travel",
+    "filename": "travel/001.jpg"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "genre": "travel",
+    "filename": "travel/002.jpg"
+  },
+  {
+    "title": "Three Men in a Boat (to say nothing of the dog)",
+    "genre": "travel",
+    "filename": "travel/003.jpg"
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "genre": "travel",
+    "filename": "travel/004.jpg"
+  },
+  {
+    "title": "Voyage Out",
+    "genre": "travel",
+    "filename": "travel/005.jpg"
+  },
+  {
+    "title": "The Alhambra",
+    "genre": "travel",
+    "filename": "travel/006.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "genre": "travel",
+    "filename": "travel/007.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "genre": "travel",
+    "filename": "travel/008.jpg"
+  },
+  {
+    "title": "Roughing It",
+    "genre": "travel",
+    "filename": "travel/009.jpg"
+  },
+  {
+    "title": "Os Lus\u00edadas",
+    "genre": "travel",
+    "filename": "travel/010.jpg"
+  },
+  {
+    "title": "Meditations",
+    "genre": "travel",
+    "filename": "travel/011.jpg"
+  },
+  {
+    "title": "The sketch-book of Geoffrey Crayon, Esq",
+    "genre": "travel",
+    "filename": "travel/012.jpg"
+  },
+  {
+    "title": "Lord Jim",
+    "genre": "travel",
+    "filename": "travel/013.jpg"
+  },
+  {
+    "title": "Tom Sawyer Abroad",
+    "genre": "travel",
+    "filename": "travel/014.jpg"
+  },
+  {
+    "title": "Two years before the mast",
+    "genre": "travel",
+    "filename": "travel/015.jpg"
+  },
+  {
+    "title": "Astoria",
+    "genre": "travel",
+    "filename": "travel/016.jpg"
+  },
+  {
+    "title": "Sailing alone around the world",
+    "genre": "travel",
+    "filename": "travel/017.jpg"
+  },
+  {
+    "title": "Martin Chuzzlewit",
+    "genre": "travel",
+    "filename": "travel/018.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "genre": "travel",
+    "filename": "travel/019.jpg"
+  },
+  {
+    "title": "Picasso",
+    "genre": "travel",
+    "filename": "travel/020.jpg"
+  },
+  {
+    "title": "Life of Samuel Johnson",
+    "genre": "travel",
+    "filename": "travel/021.jpg"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "genre": "travel",
+    "filename": "travel/022.jpg"
+  },
+  {
+    "title": "The museum experience revisited",
+    "genre": "travel",
+    "filename": "travel/023.jpg"
+  },
+  {
+    "title": "All's Well That Ends Well",
+    "genre": "travel",
+    "filename": "travel/024.jpg"
+  },
+  {
+    "title": "Die Leiden des jungen Werthers",
+    "genre": "travel",
+    "filename": "travel/025.jpg"
+  },
+  {
+    "title": "The Return of the Native",
+    "genre": "travel",
+    "filename": "travel/026.jpg"
+  },
+  {
+    "title": "Martin Rattler, or, A boy's adventures in the forests of Brazil",
+    "genre": "travel",
+    "filename": "travel/027.jpg"
+  },
+  {
+    "title": "A Tramp Abroad",
+    "genre": "travel",
+    "filename": "travel/028.jpg"
+  },
+  {
+    "title": "The Essays of Elia",
+    "genre": "travel",
+    "filename": "travel/029.jpg"
+  },
+  {
+    "title": "American notes",
+    "genre": "travel",
+    "filename": "travel/030.jpg"
+  },
+  {
+    "title": "A Room with a View",
+    "genre": "travel",
+    "filename": "travel/031.jpg"
+  },
+  {
+    "title": "The Innocents Abroad",
+    "genre": "travel",
+    "filename": "travel/032.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "genre": "travel",
+    "filename": "travel/033.jpg"
+  },
+  {
+    "title": "Mademoiselle Fifi",
+    "genre": "travel",
+    "filename": "travel/034.jpg"
+  },
+  {
+    "title": "The Hudson Bay Company",
+    "genre": "travel",
+    "filename": "travel/035.jpg"
+  },
+  {
+    "title": "Life on the Mississippi",
+    "genre": "travel",
+    "filename": "travel/036.jpg"
+  },
+  {
+    "title": "Paul Klee",
+    "genre": "travel",
+    "filename": "travel/037.jpg"
+  },
+  {
+    "title": "The adventures of Captain Bonneville, U.S.A.",
+    "genre": "travel",
+    "filename": "travel/038.jpg"
+  },
+  {
+    "title": "The gorilla hunters",
+    "genre": "travel",
+    "filename": "travel/039.jpg"
+  },
+  {
+    "title": "By the King",
+    "genre": "travel",
+    "filename": "travel/040.jpg"
+  },
+  {
+    "title": "A Survey of London",
+    "genre": "travel",
+    "filename": "travel/041.jpg"
+  },
+  {
+    "title": "Lost Horizon",
+    "genre": "travel",
+    "filename": "travel/042.jpg"
+  },
+  {
+    "title": "The American",
+    "genre": "travel",
+    "filename": "travel/043.jpg"
+  },
+  {
+    "title": "The Rivals",
+    "genre": "travel",
+    "filename": "travel/044.jpg"
+  },
+  {
+    "title": "Palmetto-leaves",
+    "genre": "travel",
+    "filename": "travel/045.jpg"
+  },
+  {
+    "title": "Their Wedding Journey",
+    "genre": "travel",
+    "filename": "travel/046.jpg"
+  },
+  {
+    "title": "The Razor's Edge",
+    "genre": "travel",
+    "filename": "travel/047.jpg"
+  },
+  {
+    "title": "Gascoyne",
+    "genre": "travel",
+    "filename": "travel/048.jpg"
+  },
+  {
+    "title": "The journals of Andre\u0301 Gide, 1889-1949",
+    "genre": "travel",
+    "filename": "travel/049.jpg"
+  },
+  {
+    "title": "South: the story of Shackleton's 1914-1917 expedition",
+    "genre": "travel",
+    "filename": "travel/050.jpg"
+  },
+  {
+    "title": "Columbus",
+    "genre": "travel",
+    "filename": "travel/051.jpg"
+  },
+  {
+    "title": "The Travels of Marco Polo",
+    "genre": "travel",
+    "filename": "travel/052.jpg"
+  },
+  {
+    "title": "Ker-bloom!",
+    "genre": "travel",
+    "filename": "travel/053.jpg"
+  },
+  {
+    "title": "Aus meinem Leben",
+    "genre": "travel",
+    "filename": "travel/054.jpg"
+  },
+  {
+    "title": "Backwoods of Canada",
+    "genre": "travel",
+    "filename": "travel/055.jpg"
+  },
+  {
+    "title": "Queer places",
+    "genre": "travel",
+    "filename": "travel/056.jpg"
+  },
+  {
+    "title": "A Caribbean Mystery",
+    "genre": "travel",
+    "filename": "travel/057.jpg"
+  },
+  {
+    "title": "Goethe's Werke",
+    "genre": "travel",
+    "filename": "travel/058.jpg"
+  },
+  {
+    "title": "The History, Civil and Commercial, of the British Colonies in the West Indies ...: In Two Volumes",
+    "genre": "travel",
+    "filename": "travel/059.jpg"
+  },
+  {
+    "title": "A dictionary of the English language",
+    "genre": "travel",
+    "filename": "travel/060.jpg"
+  },
+  {
+    "title": "Arabia Deserta",
+    "genre": "travel",
+    "filename": "travel/061.jpg"
+  },
+  {
+    "title": "California and Oregon trail",
+    "genre": "travel",
+    "filename": "travel/062.jpg"
+  },
+  {
+    "title": "From sea to sea; letters of travel",
+    "genre": "travel",
+    "filename": "travel/063.jpg"
+  },
+  {
+    "title": "Homage to Catalonia",
+    "genre": "travel",
+    "filename": "travel/064.jpg"
+  },
+  {
+    "title": "Pictures from Italy",
+    "genre": "travel",
+    "filename": "travel/065.jpg"
+  },
+  {
+    "title": "Away in the wilderness",
+    "genre": "travel",
+    "filename": "travel/066.jpg"
+  },
+  {
+    "title": "The world of ice, or, Adventures in the polar regions",
+    "genre": "travel",
+    "filename": "travel/067.jpg"
+  },
+  {
+    "title": "Omoo",
+    "genre": "travel",
+    "filename": "travel/068.jpg"
+  },
+  {
+    "title": "A week on the Concord and Merrimack Rivers",
+    "genre": "travel",
+    "filename": "travel/069.jpg"
+  },
+  {
+    "title": "First footsteps in East Africa",
+    "genre": "travel",
+    "filename": "travel/070.jpg"
+  },
+  {
+    "title": "Venetian life",
+    "genre": "travel",
+    "filename": "travel/071.jpg"
+  },
+  {
+    "title": "Andy Warhol",
+    "genre": "travel",
+    "filename": "travel/072.jpg"
+  },
+  {
+    "title": "Journal of researches into the geology and natural history of the various countries visited by H.M.S. Beagle",
+    "genre": "travel",
+    "filename": "travel/073.jpg"
+  },
+  {
+    "title": "Tarzan of the Apes Tale #1 the Man-Child",
+    "genre": "travel",
+    "filename": "travel/074.jpg"
+  },
+  {
+    "title": "Lettres philosophiques",
+    "genre": "travel",
+    "filename": "travel/075.jpg"
+  },
+  {
+    "title": "Works (American Notes / Pictures from Italy)",
+    "genre": "travel",
+    "filename": "travel/076.jpg"
+  },
+  {
+    "title": "Historia Alexandri Magni",
+    "genre": "travel",
+    "filename": "travel/077.jpg"
+  },
+  {
+    "title": "Souvenirs d'un voyage dans la Tartarie et le Thibet, pendant les anne\u0301es 1844, 1845 et 1846",
+    "genre": "travel",
+    "filename": "travel/078.jpg"
+  },
+  {
+    "title": "Italienische Reise",
+    "genre": "travel",
+    "filename": "travel/079.jpg"
+  },
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "genre": "travel",
+    "filename": "travel/080.jpg"
+  },
+  {
+    "title": "Five Little Peppers Abroad",
+    "genre": "travel",
+    "filename": "travel/081.jpg"
+  },
+  {
+    "title": "Views a-foot: or, Europe seen with a knapsack and staff",
+    "genre": "travel",
+    "filename": "travel/082.jpg"
+  },
+  {
+    "title": "American notes",
+    "genre": "travel",
+    "filename": "travel/083.jpg"
+  },
+  {
+    "title": "Facundo, or, civilization and barbarism",
+    "genre": "travel",
+    "filename": "travel/084.jpg"
+  },
+  {
+    "title": "Our Old Home",
+    "genre": "travel",
+    "filename": "travel/085.jpg"
+  },
+  {
+    "title": "Annals of the parish, or",
+    "genre": "travel",
+    "filename": "travel/086.jpg"
+  },
+  {
+    "title": "Le Corbusier",
+    "genre": "travel",
+    "filename": "travel/087.jpg"
+  },
+  {
+    "title": "Italian journeys",
+    "genre": "travel",
+    "filename": "travel/088.jpg"
+  },
+  {
+    "title": "Boy",
+    "genre": "travel",
+    "filename": "travel/089.jpg"
+  },
+  {
+    "title": "M\u00e9moires d'une portraitiste, 1755-1842",
+    "genre": "travel",
+    "filename": "travel/090.jpg"
+  },
+  {
+    "title": "A Journey to the Western Islands of Scotland",
+    "genre": "travel",
+    "filename": "travel/091.jpg"
+  },
+  {
+    "title": "A Confederacy of Dunces",
+    "genre": "travel",
+    "filename": "travel/092.jpg"
+  },
+  {
+    "title": "Wallpaper City Guide",
+    "genre": "travel",
+    "filename": "travel/093.jpg"
+  },
+  {
+    "title": "Novels (Adventures of Huckleberry Finn / Adventures of Tom Sawyer)",
+    "genre": "travel",
+    "filename": "travel/094.jpg"
+  },
+  {
+    "title": "M\u00e9moires d'outre-tombe",
+    "genre": "travel",
+    "filename": "travel/095.jpg"
+  },
+  {
+    "title": "Epistolae Ho-Elianae",
+    "genre": "travel",
+    "filename": "travel/096.jpg"
+  },
+  {
+    "title": "Tales of",
+    "genre": "travel",
+    "filename": "travel/097.jpg"
+  },
+  {
+    "title": "The Road",
+    "genre": "travel",
+    "filename": "travel/098.jpg"
+  },
+  {
+    "title": "The Worst Journey in the World",
+    "genre": "travel",
+    "filename": "travel/099.jpg"
+  },
+  {
+    "title": "Divina Commedia",
+    "genre": "poetry",
+    "filename": "poetry/000.jpg"
+  },
+  {
+    "title": "\u1f38\u03bb\u03b9\u03ac\u03c2",
+    "genre": "poetry",
+    "filename": "poetry/001.jpg"
+  },
+  {
+    "title": "\u1f48\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1",
+    "genre": "poetry",
+    "filename": "poetry/002.jpg"
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "genre": "poetry",
+    "filename": "poetry/003.jpg"
+  },
+  {
+    "title": "The Canterbury Tales",
+    "genre": "poetry",
+    "filename": "poetry/004.jpg"
+  },
+  {
+    "title": "Leaves of Grass",
+    "genre": "poetry",
+    "filename": "poetry/005.jpg"
+  },
+  {
+    "title": "Faust",
+    "genre": "poetry",
+    "filename": "poetry/006.jpg"
+  },
+  {
+    "title": "Sonnets",
+    "genre": "poetry",
+    "filename": "poetry/007.jpg"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "genre": "poetry",
+    "filename": "poetry/008.jpg"
+  },
+  {
+    "title": "De rerum natura",
+    "genre": "poetry",
+    "filename": "poetry/009.jpg"
+  },
+  {
+    "title": "La Poetica",
+    "genre": "poetry",
+    "filename": "poetry/010.jpg"
+  },
+  {
+    "title": "Metamorphoses",
+    "genre": "poetry",
+    "filename": "poetry/011.jpg"
+  },
+  {
+    "title": "Aeneis",
+    "genre": "poetry",
+    "filename": "poetry/012.jpg"
+  },
+  {
+    "title": "Flower Fables",
+    "genre": "poetry",
+    "filename": "poetry/013.jpg"
+  },
+  {
+    "title": "Inferno",
+    "genre": "poetry",
+    "filename": "poetry/014.jpg"
+  },
+  {
+    "title": "Paradise Lost",
+    "genre": "poetry",
+    "filename": "poetry/015.jpg"
+  },
+  {
+    "title": "The Night Before Christmas",
+    "genre": "poetry",
+    "filename": "poetry/016.jpg"
+  },
+  {
+    "title": "The pioneers",
+    "genre": "poetry",
+    "filename": "poetry/017.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/018.jpg"
+  },
+  {
+    "title": "Os Lus\u00edadas",
+    "genre": "poetry",
+    "filename": "poetry/019.jpg"
+  },
+  {
+    "title": "Les fleurs du mal",
+    "genre": "poetry",
+    "filename": "poetry/020.jpg"
+  },
+  {
+    "title": "The Prophet",
+    "genre": "poetry",
+    "filename": "poetry/021.jpg"
+  },
+  {
+    "title": "Fables",
+    "genre": "poetry",
+    "filename": "poetry/022.jpg"
+  },
+  {
+    "title": "An essay on man",
+    "genre": "poetry",
+    "filename": "poetry/023.jpg"
+  },
+  {
+    "title": "The complete poetical works",
+    "genre": "poetry",
+    "filename": "poetry/024.jpg"
+  },
+  {
+    "title": "Milton's Poems",
+    "genre": "poetry",
+    "filename": "poetry/025.jpg"
+  },
+  {
+    "title": "Il Paradiso",
+    "genre": "poetry",
+    "filename": "poetry/026.jpg"
+  },
+  {
+    "title": "Hudibras",
+    "genre": "poetry",
+    "filename": "poetry/027.jpg"
+  },
+  {
+    "title": "History",
+    "genre": "poetry",
+    "filename": "poetry/028.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/029.jpg"
+  },
+  {
+    "title": "Poema de mio Cid",
+    "genre": "poetry",
+    "filename": "poetry/030.jpg"
+  },
+  {
+    "title": "The Hunting of the Snark",
+    "genre": "poetry",
+    "filename": "poetry/031.jpg"
+  },
+  {
+    "title": "Poetics",
+    "genre": "poetry",
+    "filename": "poetry/032.jpg"
+  },
+  {
+    "title": "The seasons",
+    "genre": "poetry",
+    "filename": "poetry/033.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/034.jpg"
+  },
+  {
+    "title": "Vita nuova",
+    "genre": "poetry",
+    "filename": "poetry/035.jpg"
+  },
+  {
+    "title": "Rime",
+    "genre": "poetry",
+    "filename": "poetry/036.jpg"
+  },
+  {
+    "title": "Gerusalemme liberata",
+    "genre": "poetry",
+    "filename": "poetry/037.jpg"
+  },
+  {
+    "title": "The History of Rasselas, Prince of Abyssinia",
+    "genre": "poetry",
+    "filename": "poetry/038.jpg"
+  },
+  {
+    "title": "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ac (Politik\u00e1)",
+    "genre": "poetry",
+    "filename": "poetry/039.jpg"
+  },
+  {
+    "title": "Gitanjali (song offerings)",
+    "genre": "poetry",
+    "filename": "poetry/040.jpg"
+  },
+  {
+    "title": "Il purgatorio",
+    "genre": "poetry",
+    "filename": "poetry/041.jpg"
+  },
+  {
+    "title": "Works [37 plays, 6 poems, sonnets]",
+    "genre": "poetry",
+    "filename": "poetry/042.jpg"
+  },
+  {
+    "title": "Moralia",
+    "genre": "poetry",
+    "filename": "poetry/043.jpg"
+  },
+  {
+    "title": "Poems by John Keats",
+    "genre": "poetry",
+    "filename": "poetry/044.jpg"
+  },
+  {
+    "title": "Georgica",
+    "genre": "poetry",
+    "filename": "poetry/045.jpg"
+  },
+  {
+    "title": "The Song of Hiawatha and Other Poems",
+    "genre": "poetry",
+    "filename": "poetry/046.jpg"
+  },
+  {
+    "title": "The complete works of Robert Browning Volume XVI",
+    "genre": "poetry",
+    "filename": "poetry/047.jpg"
+  },
+  {
+    "title": "Carmina",
+    "genre": "poetry",
+    "filename": "poetry/048.jpg"
+  },
+  {
+    "title": "Opera",
+    "genre": "poetry",
+    "filename": "poetry/049.jpg"
+  },
+  {
+    "title": "Pharsalia",
+    "genre": "poetry",
+    "filename": "poetry/050.jpg"
+  },
+  {
+    "title": "Evangeline",
+    "genre": "poetry",
+    "filename": "poetry/051.jpg"
+  },
+  {
+    "title": "Lays of ancient Rome",
+    "genre": "poetry",
+    "filename": "poetry/052.jpg"
+  },
+  {
+    "title": "Moments of vision",
+    "genre": "poetry",
+    "filename": "poetry/053.jpg"
+  },
+  {
+    "title": "Spoon River Anthology",
+    "genre": "poetry",
+    "filename": "poetry/054.jpg"
+  },
+  {
+    "title": "The lady of the lake",
+    "genre": "poetry",
+    "filename": "poetry/055.jpg"
+  },
+  {
+    "title": "Rime of the ancient mariner",
+    "genre": "poetry",
+    "filename": "poetry/056.jpg"
+  },
+  {
+    "title": "Epigrammata",
+    "genre": "poetry",
+    "filename": "poetry/057.jpg"
+  },
+  {
+    "title": "The song of Hiawatha",
+    "genre": "poetry",
+    "filename": "poetry/058.jpg"
+  },
+  {
+    "title": "Tender Buttons",
+    "genre": "poetry",
+    "filename": "poetry/059.jpg"
+  },
+  {
+    "title": "Elegiae",
+    "genre": "poetry",
+    "filename": "poetry/060.jpg"
+  },
+  {
+    "title": "The Poems of Emily Dickinson Volume II",
+    "genre": "poetry",
+    "filename": "poetry/061.jpg"
+  },
+  {
+    "title": "The Bell Jar",
+    "genre": "poetry",
+    "filename": "poetry/062.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/063.jpg"
+  },
+  {
+    "title": "The Pied Piper of Hamelin",
+    "genre": "poetry",
+    "filename": "poetry/064.jpg"
+  },
+  {
+    "title": "Faerie queene",
+    "genre": "poetry",
+    "filename": "poetry/065.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/066.jpg"
+  },
+  {
+    "title": "Bucolica",
+    "genre": "poetry",
+    "filename": "poetry/067.jpg"
+  },
+  {
+    "title": "The poetical works of Sir Walter Scott",
+    "genre": "poetry",
+    "filename": "poetry/068.jpg"
+  },
+  {
+    "title": "The Barrack-Room Ballads of Rudyard Kipling",
+    "genre": "poetry",
+    "filename": "poetry/069.jpg"
+  },
+  {
+    "title": "The Deserted Village",
+    "genre": "poetry",
+    "filename": "poetry/070.jpg"
+  },
+  {
+    "title": "Odes",
+    "genre": "poetry",
+    "filename": "poetry/071.jpg"
+  },
+  {
+    "title": "The Rape of the Lock",
+    "genre": "poetry",
+    "filename": "poetry/072.jpg"
+  },
+  {
+    "title": "The Odyssey",
+    "genre": "poetry",
+    "filename": "poetry/073.jpg"
+  },
+  {
+    "title": "Helen of Troy: Her Life and Translation Done Into Rhyme from the Greek Books",
+    "genre": "poetry",
+    "filename": "poetry/074.jpg"
+  },
+  {
+    "title": "De consolatione philosophiae",
+    "genre": "poetry",
+    "filename": "poetry/075.jpg"
+  },
+  {
+    "title": "Fasti",
+    "genre": "poetry",
+    "filename": "poetry/076.jpg"
+  },
+  {
+    "title": "Idylls of the King",
+    "genre": "poetry",
+    "filename": "poetry/077.jpg"
+  },
+  {
+    "title": "The works of Horace",
+    "genre": "poetry",
+    "filename": "poetry/078.jpg"
+  },
+  {
+    "title": "Il profeta",
+    "genre": "poetry",
+    "filename": "poetry/079.jpg"
+  },
+  {
+    "title": "Satirae",
+    "genre": "poetry",
+    "filename": "poetry/080.jpg"
+  },
+  {
+    "title": "A  child's garden of verses",
+    "genre": "poetry",
+    "filename": "poetry/081.jpg"
+  },
+  {
+    "title": "Comus",
+    "genre": "poetry",
+    "filename": "poetry/082.jpg"
+  },
+  {
+    "title": "Lalla Rookh",
+    "genre": "poetry",
+    "filename": "poetry/083.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/084.jpg"
+  },
+  {
+    "title": "Ramayana, a Holy Bible of India",
+    "genre": "poetry",
+    "filename": "poetry/085.jpg"
+  },
+  {
+    "title": "Mart\u00edn Fierro",
+    "genre": "poetry",
+    "filename": "poetry/086.jpg"
+  },
+  {
+    "title": "Sein und Zeit",
+    "genre": "poetry",
+    "filename": "poetry/087.jpg"
+  },
+  {
+    "title": "Poems",
+    "genre": "poetry",
+    "filename": "poetry/088.jpg"
+  },
+  {
+    "title": "Drum-taps",
+    "genre": "poetry",
+    "filename": "poetry/089.jpg"
+  },
+  {
+    "title": "John Donne Poetry",
+    "genre": "poetry",
+    "filename": "poetry/090.jpg"
+  },
+  {
+    "title": "The works of Robert Burns",
+    "genre": "poetry",
+    "filename": "poetry/091.jpg"
+  },
+  {
+    "title": "Phantasmagoria and Other Poems",
+    "genre": "poetry",
+    "filename": "poetry/092.jpg"
+  },
+  {
+    "title": "Evgenii\u0306 Onegin",
+    "genre": "poetry",
+    "filename": "poetry/093.jpg"
+  },
+  {
+    "title": "Biographia literaria",
+    "genre": "poetry",
+    "filename": "poetry/094.jpg"
+  },
+  {
+    "title": "Libro de buen amor",
+    "genre": "poetry",
+    "filename": "poetry/095.jpg"
+  },
+  {
+    "title": "Veinte poemas de amor y una canci\u00f3n desesperada",
+    "genre": "poetry",
+    "filename": "poetry/096.jpg"
+  },
+  {
+    "title": "Ars Amatoria",
+    "genre": "poetry",
+    "filename": "poetry/097.jpg"
+  },
+  {
+    "title": "'Twas the Night before Christmas",
+    "genre": "poetry",
+    "filename": "poetry/098.jpg"
+  },
+  {
+    "title": "Troilus and Criseyde",
+    "genre": "poetry",
+    "filename": "poetry/099.jpg"
+  }
+]
