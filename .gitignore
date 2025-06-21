@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code or PyCharm settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Image data
+data/images/
+
+# Saved model files or embeddings
+data/embeddings.npy
+data/image_ids.pkl
+
+# Logs or cache
+*.log
+*.tmp
