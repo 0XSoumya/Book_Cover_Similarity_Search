@@ -6,23 +6,26 @@ A visually- book recommendation system that finds similar book covers using imag
 
 ---
 
-## 📁 Folder Structure
-
-```bash
 book-cover-similarity/
-├── app.py                     # Streamlit app
-├── requirements.txt          # Python dependencies
-├── .gitignore                # Files excluded from Git
+├── app.py                         # Streamlit app
+├── requirements.txt              # Python dependencies
+├── .gitignore                    # Files excluded from Git
+├── desktop.ini                  # Windows system file (ignored)
+├── utils.py                     # Utility functions
+├── README.md                    # Project overview
 ├── data/
-│   ├── images/               # Book cover images
-│   ├── embeddings.npy        # Image embeddings (numpy array)
-│   ├── faiss_index_cosine.index  # FAISS index for cosine similarity
-│   └── metadata_openlibrary.json # Book metadata
+│   ├── images/                   # Book cover images (excluded from Git)
+│   ├── embeddings.npy            # Image embeddings (numpy array)
+│   ├── faiss_index_cosine.index # FAISS index for cosine similarity
+│   ├── image_ids.pkl            # Pickled image-to-metadata map
+│   └── metadata_openlibrary.json # Book metadata scraped from OpenLibrary
 ├── scripts/
-│   ├── open_library.py       # Open Library scraping script
-│   ├── ResNet.py             # Embedding generator using ResNet
-│   └── FAISS_index_ResNet.py # Builds FAISS index
-```
+│   ├── FAISS_index_ResNet.py     # Builds FAISS index
+│   ├── ResNet.py                 # Embedding generator using ResNet
+│   ├── book_finder.py            # (Optional) Book lookup module
+│   ├── build_faiss_engine.py     # Alternate FAISS building script
+│   ├── generate_embeddings.py    # Script to generate embeddings
+│   └── open_library.py           # Scrapes data using OpenLibrary API
 
 ---
 
