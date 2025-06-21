@@ -1,6 +1,6 @@
 # 📚 Judging Books by Their Covers
 
-A visually- book recommendation system that finds similar book covers using image embeddings and FAISS. Powered by ResNet and Streamlit.
+A visual book recommendation system that finds similar book covers using image embeddings and FAISS. Powered by ResNet and Streamlit.
 
 🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
 
