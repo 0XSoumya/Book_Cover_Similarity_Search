@@ -6,6 +6,7 @@ A visually- book recommendation system that finds similar book covers using imag
 
 ---
 
+ ```
 book-cover-similarity/
 ├── app.py                         # Streamlit app
 ├── requirements.txt              # Python dependencies
