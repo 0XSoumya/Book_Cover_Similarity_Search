@@ -2,8 +2,13 @@
 
 A visual book recommendation system that finds similar book covers using image embeddings and FAISS. Powered by ResNet and Streamlit.
 
-🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
+## 📸 Preview
 
+![demo screenshot)
+![App Demo](media/demo_gif.gif)
+---
+
+🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
  ---
 
 ```
@@ -89,11 +94,7 @@ book-cover-similarity/
 
 ---
 
-## 📸 Preview
 
-![demo screenshot](https://your-screenshot-url.com)
-
----
 
 ## 📜 License
 
