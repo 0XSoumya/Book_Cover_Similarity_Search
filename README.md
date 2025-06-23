@@ -4,7 +4,7 @@ A visual book recommendation system that finds similar book covers using image e
 
 ## 📸 Preview
 
-![App Demo](media/demo_gif.gif)
+![App Demo](demo_gif.gif)
 ---
 
 🔗 **Live Demo:** [judgingbooksbycovers.streamlit.app](https://judgingbooksbycovers.streamlit.app/)
