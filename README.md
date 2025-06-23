@@ -4,7 +4,6 @@ A visual book recommendation system that finds similar book covers using image e
 
 ## 📸 Preview
 
-![demo screenshot)
 ![App Demo](media/demo_gif.gif)
 ---
 
